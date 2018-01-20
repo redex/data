@@ -1,7 +1,7 @@
 {
   "name": "redex-data",
   "scripts": {
-    "test": "node node_modules/redex-scripts/bin/validate_sources.js sources.json"
+    "test": "validate_sources"
   },
   "devDependencies": {
     "redex-scripts": "redex/redex-scripts"
