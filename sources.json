@@ -391,6 +391,12 @@
       "platforms": ["node"],
       "keywords": ["actor system"]
     },
+    "reason-nconf": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": [ "nconf", "configuration", "key value store", "pluggable" ],
+      "comment": "Incomplete, but usable"
+    },
     "reason-react": {
       "category": "binding",
       "platforms": ["browser", "node"],
