@@ -8,13 +8,13 @@
     "@astrada/reason-react-toolbox": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["react", "ui toolkit"]
+      "keywords": ["react", "ui"]
     },
     "@bs-blueprintjs/core": {
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["react", "ui-library"],
+      "keywords": ["react", "ui"],
       "comment": "Missing readme, keywords"
     },
     "@bs-blueprintjs/datetime": {
@@ -66,13 +66,13 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["uncategorized"],
+      "keywords": ["platform api"],
       "comment": "Inadequate readme"
     },
     "bs-axios": {
       "category": "binding",
       "platforms": ["browser", "node"],
-      "keywords": ["http-client"]
+      "keywords": ["http client"]
     },
     "bs-batteries": {
       "category": "library",
@@ -129,7 +129,7 @@
     "bs-downshift": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["react", "ui toolkit"]
+      "keywords": ["react", "ui"]
     },
     "bs-enzyme": {
       "category": "binding",
@@ -146,7 +146,7 @@
     "bs-fetch": {
       "category": "binding",
       "platforms": ["browser", "node"],
-      "keywords": ["http-client"]
+      "keywords": ["http client"]
     },
     "bs-glamor": {
       "category": "binding",
@@ -182,12 +182,12 @@
     "bs-material-ui": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["react", "ui toolkit"]
+      "keywords": ["react", "ui"]
     },
     "bs-material-ui-icons": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["react", "ui toolkit"]
+      "keywords": ["react", "ui"]
     },
     "bs-mysql": {
       "category": "binding",
@@ -221,7 +221,7 @@
     "bs-nprogress": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["ui toolkit"]
+      "keywords": ["ui"]
     },
     "bs-numeral": {
       "category": "binding",
@@ -257,12 +257,12 @@
     "bs-react-native": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["react", "ui toolkit"]
+      "keywords": ["react", "ui"]
     },
     "bs-react-notification-system": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["react", "ui toolkit"]
+      "keywords": ["react", "ui"]
     },
     "bs-react-pdf": {
       "category": "binding",
@@ -285,7 +285,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["react", "ui toolkit"],
+      "keywords": ["react", "ui"],
       "comment": "Inadequate readme"
     },
     "bs-rebug": {
@@ -316,7 +316,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["uncategorized"],
+      "keywords": ["cloud service api"],
       "comment": "Inadequate readme"
     },
     "bs-svg-attachment": {
@@ -328,7 +328,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["uncategorized"],
+      "keywords": ["platform api"],
       "comment": "Inadequate readme"
     },
     "bs-webapi": {
@@ -464,7 +464,7 @@
       "category": "library",
       "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["utilities", "animation"],
+      "keywords": ["animation"],
       "comment": "Missing readme, repository url"
     }
   },
@@ -482,7 +482,7 @@
       "repository": "github:AndrewKvalheim/bs-geofire",
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["geolocation", "database"]
+      "keywords": ["geolocation", "database", "cloud service api"]
     },
     "aweary/reason-vue": {
       "repository": "github:aweary/reason-vue",
@@ -505,7 +505,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["uncategorized"],
+      "keywords": ["platform api"],
       "comment": "Inadequate readme"
     },
     "glennsl/bs-benchmarkjs": {
@@ -536,14 +536,14 @@
       "repository": "github:glennsl/refetch",
       "category": "library",
       "platforms": ["browser", "node"],
-      "keywords": ["http-client"]
+      "keywords": ["http client"]
     },
     "reasonml-community/bs-discord.js": {
       "repository": "github:reasonml-community/bs-discord.js",
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["uncategorized"],
+      "keywords": ["cloud service api"],
       "comment": "Inadequate readme"
     },
     "reasonml-community/bs-glob": {
@@ -557,7 +557,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["uncategorized"],
+      "keywords": ["utilities"],
       "comment": "Inadequate readme"
     },
     "reasonml-community/bs-immutablejs": {
@@ -573,7 +573,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["maps"],
+      "keywords": ["maps", "ui"],
       "comment": "Inadequate readme"
     },
     "reasonml-community/bs-node": {
@@ -581,7 +581,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["standard library", "utilities"],
+      "keywords": ["standard library", "utilities", "platform api"],
       "comment": "Inadequate readme"
     },
     "reasonml-community/bs-socket.io": {
@@ -663,7 +663,7 @@
       "category": "library",
       "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["async", "promise?", "utilities"],
+      "keywords": ["async"],
       "comment": "Missing installation instructions"
     },
     "zploskey/bs-puppeteer": {
@@ -671,7 +671,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["uncategorized"],
+      "keywords": ["platform api"],
       "comment": "Inadequate readme, missing description, homepage url"
     }
   },
@@ -702,14 +702,14 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["react", "ui toolkit"],
+      "keywords": ["react", "ui"],
       "comment": "Missing readme"
     },
     "bs-ant-design": {
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["react", "ui toolkit"],
+      "keywords": ["react", "ui"],
       "comment": "Inadequate readme"
     },
     "bs-apollo-server-express": {
@@ -721,10 +721,10 @@
     },
     "bs-async": {
       "category": "unknown",
-      "flags": ["neglected"],
+      "flags": ["unusable"],
       "platforms": [],
-      "keywords": ["uncategorized"],
-      "comment": "Inadequate/misleading readme, missing repository url"
+      "keywords": [],
+      "comment": "Severe lack of information"
     },
     "bs-css-core": {
       "category": "library",
@@ -737,14 +737,14 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["database", "data fetching"],
+      "keywords": ["database", "data fetching", "cloud service api"],
       "comment": "Inadequate/misleading readme"
     },
     "bs-gcloud": {
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["database"],
+      "keywords": ["database", "cloud service api"],
       "comment": "Missing readme"
     },
     "bs-graphql": {
@@ -769,14 +769,46 @@
       "comment": "Missing repository url"
     },
     "bs-jsverify": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["testing"],
+      "comment": "Inadequate readme"
     },
     "bs-mocha": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["testing"],
+      "comment": "Unmaintained, missing readme"
+    },
+    "bs-mochajs": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["testing"],
+      "comment": "Inadequate readme, missing repository url"
     },
     "bs-node-debug": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["logging", "utilities"],
+      "comment": "Inadequate readme, missing repository url"
     },
     "bs-react-art": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["react", "graphics"],
+      "comment": "Inadequate readme, missing repository url"
     },
     "bs-react-helmet": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["react"],
+      "comment": "Inadequate readme, missing repository url"
     },
     "bs-restyled": {
       "category": "binding",
@@ -786,63 +818,207 @@
       "comment": "Incorrect description, installation instructions, example"
     },
     "bs-sentia-http": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "bs-sentia-promise": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["browser", "node"],
+      "keywords": ["async"],
+      "comment": "Inadequate readme, missing repository url"
     },
     "bs-sentia-remote": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "bs-sentia-result": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "bs-sentia-std": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "bs-sentia-tape": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "bs-stdlib": {
+      "category": "library",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": ["standard library"],
+      "comment": "Severe lack of information"
     },
     "bs-string-map": {
+      "category": "library",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": ["collections"],
+      "comment": "Severe lack of information"
     },
-    "bs-styletron-react": {
+    "@astrada/bs-styletron-react": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "css"]
     },
     "re-business": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "re-elm-app": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["uncategorized"],
+      "comment": "Inadequate readme"
     },
     "re-localforage": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["browser", "node"],
+      "keywords": ["database"],
+      "comment": "Inadequate readme"
     },
     "re-spring": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["animation"],
+      "comment": "Inadequate readme, missing repository url"
     },
     "re-sync": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["browser", "node"],
+      "keywords": ["async"],
+      "comment": "Missing repository url"
     },
     "reason-commons": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
+    },
+    "reason-elm": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["uncategorized"],
+      "comment": "Inadequate readme"
     },
     "reason-fs": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": ["node"],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "reason-http": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": ["node"],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "reason-https": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": ["node"],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "reason-nact-postgres": {
     },
     "reason-node": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["native"],
+      "keywords": ["standard library"],
+      "comment": "Missing repository url"
     },
     "reason-path": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": ["node"],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "reason-process": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": ["node"],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "redataloader": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["data fetching"],
+      "comment": "Inadequate readme, missing repository url"
     },
     "sentia.bs.result": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "wonder-bs-jest": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     },
     "wonder-bs-sinon": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
     }
   },
   
-  "prematurely-unpublished": [
-    "AlexSchwabauer/bs-raven",
-    "Astrocoders/bs-react-native-vector-icons"
-  ],
+  "prematurely-unpublished": {
+    "AlexSchwabauer/bs-raven": {
+      "repository": "github:AlexSchwabauer/bs-raven",
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["browser", "node"],
+      "keywords": ["error tracking", "cloud service API"],
+      "comment": "Inadequate readme, missing homepage url, issues url"
+    },
+    "Astrocoders/bs-react-native-vector-icons": {
+      "repository": "github:Astrocoders/bs-react-native-vector-icons",
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"],
+      "comment": "Inadequate readme, missing homepage url, issues url"
+    }
+  },
   
   "obsolete": [
     "AndrewKvalheim/bs-chalk",
