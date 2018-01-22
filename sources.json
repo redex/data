@@ -391,6 +391,11 @@
       "platforms": ["node"],
       "keywords": ["actor system"]
     },
+    "reason-nconf": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["configuration"]
+    },
     "reason-react": {
       "category": "binding",
       "platforms": ["browser", "node"],
