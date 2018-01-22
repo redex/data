@@ -394,8 +394,7 @@
     "reason-nconf": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": [ "nconf", "configuration", "key value store", "pluggable" ],
-      "comment": "Incomplete, but usable"
+      "keywords": ["configuration"]
     },
     "reason-react": {
       "category": "binding",
