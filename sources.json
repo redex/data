@@ -297,10 +297,8 @@
     },
     "bs-reform": {
       "category": "library",
-      "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["react", "form validation"],
-      "comment": "Missing installation instructions"
+      "keywords": ["react", "form validation"]
     },
     "bs-snabbdom": {
       "category": "binding",
