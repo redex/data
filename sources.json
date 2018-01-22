@@ -676,66 +676,174 @@
     }
   },
 
-  "prematurely-published": [
-    "bs-react-native-router-flux",
-    {"bs-restyled": {
+  "prematurely-published": {
+    "bs-aeson": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["browser", "node"],
+      "keywords": ["json", "data serialization"],
+      "comment": "Inadequate readme, misleading examples"
+    },
+    "bs-amplitude": {
       "category": "binding",
-      "flags": ["neglected", "not usable"],
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["analytics"],
+      "comment": "Inadequate readme"
+    },
+    "bs-analytics-node": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["analytics"],
+      "comment": "Inadequate readme"
+    },
+    "bs-antd": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["react", "ui toolkit"],
+      "comment": "Missing readme"
+    },
+    "bs-ant-design": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["react", "ui toolkit"],
+      "comment": "Inadequate readme"
+    },
+    "bs-apollo-server-express": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["graphql"],
+      "comment": "Missing repository url"
+    },
+    "bs-async": {
+      "category": "unknown",
+      "flags": ["neglected"],
+      "platforms": [],
+      "keywords": ["uncategorized"],
+      "comment": "Inadequate/misleading readme, missing repository url"
+    },
+    "bs-css-core": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["browser", "node"],
+      "keywords": ["css"],
+      "comment": "Inadequate readme"
+    },
+    "bs-firebase": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["browser", "node"],
+      "keywords": ["database", "data fetching"],
+      "comment": "Inadequate/misleading readme"
+    },
+    "bs-gcloud": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["database"],
+      "comment": "Missing readme"
+    },
+    "bs-graphql": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["graphql"],
+      "comment": "Missing repository url"
+    },
+    "bs-graphql-scalar": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["graphql"],
+      "comment": "Inadequate readme"
+    },
+    "bs-graphql-tools": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["graphql"],
+      "comment": "Missing repository url"
+    },
+    "bs-jsverify": {
+    },
+    "bs-mocha": {
+    },
+    "bs-node-debug": {
+    },
+    "bs-react-art": {
+    },
+    "bs-react-helmet": {
+    },
+    "bs-restyled": {
+      "category": "binding",
+      "flags": ["unusable"],
       "platforms": ["browser"],
       "keywords": ["react", "css"],
       "comment": "Incorrect description, installation instructions, example"
-    }},
-    "breytt",
-    "bs-aeson",
-    "bs-amplitude",
-    "bs-analytics-node",
-    "bs-antd",
-    "bs-antd-design",
-    "bs-apollo-server-express",
-    "bs-async",
-    "bs-css-core",
-    "bs-firebase",
-    "bs-fizzbuzz",
-    "bs-gcloud",
-    "bs-graphql",
-    "bs-graphql-scalar",
-    "bs-graphql-tools",
-    "bs-jsverify",
-    "bs-mocha",
-    "bs-node-debug",
-    "bs-react-art",
-    "bs-react-helmet",
-    "bs-sentia-http",
-    "bs-sentia-promise",
-    "bs-sentia-remote",
-    "bs-sentia-result",
-    "bs-sentia-std",
-    "bs-sentia-tape",
-    "bs-stdlib",
-    "bs-string-map",
-    "bs-styletron-react",
-    "re-business",
-    "re-elm-app",
-    "re-localforage",
-    "re-spring",
-    "re-sync",
-    "reason-commons",
-    "reason-fs",
-    "reason-http",
-    "reason-https",
-    "reason-nact-postgres",
-    "reason-node",
-    "reason-path",
-    "reason-process",
-    "redataloader",
-    "sentia.bs.result",
-    "wonder-bs-jest",
-    "wonder-bs-sinon"
-  ],
+    },
+    "bs-sentia-http": {
+    },
+    "bs-sentia-promise": {
+    },
+    "bs-sentia-remote": {
+    },
+    "bs-sentia-result": {
+    },
+    "bs-sentia-std": {
+    },
+    "bs-sentia-tape": {
+    },
+    "bs-stdlib": {
+    },
+    "bs-string-map": {
+    },
+    "bs-styletron-react": {
+    },
+    "re-business": {
+    },
+    "re-elm-app": {
+    },
+    "re-localforage": {
+    },
+    "re-spring": {
+    },
+    "re-sync": {
+    },
+    "reason-commons": {
+    },
+    "reason-fs": {
+    },
+    "reason-http": {
+    },
+    "reason-https": {
+    },
+    "reason-nact-postgres": {
+    },
+    "reason-node": {
+    },
+    "reason-path": {
+    },
+    "reason-process": {
+    },
+    "redataloader": {
+    },
+    "sentia.bs.result": {
+    },
+    "wonder-bs-jest": {
+    },
+    "wonder-bs-sinon": {
+    }
+  },
+  
   "prematurely-unpublished": [
     "AlexSchwabauer/bs-raven",
     "Astrocoders/bs-react-native-vector-icons"
   ],
+  
   "obsolete": [
     "AndrewKvalheim/bs-chalk",
     "bs-jest",
@@ -746,8 +854,16 @@
     "reasonml-community/bs-containers",
     "reason-rebase"
   ],
-  "rejected": [
-    "bs-readline-example",
-    "IwanKaramazow/transducers.re"
-  ]
+    
+  "rejected": {
+    "bs-readline-example": {
+      "comment": "Example, published for unknown reasons"
+    },
+    "IwanKaramazow/transducers.re": {
+      "comment": "Missing package.json"
+    },
+    "bs-fizzbuzz": {
+      "comment": "Toy project"
+    }
+  }
 }
