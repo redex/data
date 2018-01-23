@@ -739,6 +739,18 @@
       "keywords": ["testing"],
       "comment": "Inadequate readme, syntax error in example"
     },
+    "glennsl/refetch": {
+      "repository": "github:glennsl/refetch",
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["http client"]
+    },
+    "glennsl/vrroom": {
+      "repository": "github:glennsl/vrroom",
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react", "utilities"]
+    },
     "glennsl/quickiecheck": {
       "repository": "github:glennsl/quickiecheck",
       "category": "library",
@@ -746,12 +758,6 @@
       "platforms": ["browser", "node"],
       "keywords": ["testing"],
       "comment": "Inadequate readme"
-    },
-    "glennsl/refetch": {
-      "repository": "github:glennsl/refetch",
-      "category": "library",
-      "platforms": ["browser", "node"],
-      "keywords": ["http client"]
     },
     "reasonml-community/bs-discord.js": {
       "repository": "github:reasonml-community/bs-discord.js",
