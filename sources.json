@@ -681,7 +681,7 @@
       "keywords": ["async"],
       "comment": "Missing repository url"
     },
-    "reason_apollo": {
+    "reason_async": {
       "category": "library",
       "flags": ["neglected"],
       "platforms": ["any"],
@@ -1173,14 +1173,6 @@
       "keywords": ["react", "dev tools"],
       "comment": "Inadequate readme, missing description, license, homepage url, issues url"
     },
-    "srsholmes/serverless-reasonml-starter": {
-      "repository": "github:srsholmes/serverless-reasonml-starter",
-      "category": "boilerplate",
-      "flags": ["neglected"],
-      "platforms": ["browser"],
-      "keywords": ["boilerplate"],
-      "comment": "Inadequate readme, missing homepage url, issues url"
-    },
     "state-machine-systems/JsonCodec": {
       "repository": "github:state-machine-systems/JsonCodec",
       "category": "library",
@@ -1453,6 +1445,14 @@
       "platforms": ["browser", "node"],
       "keywords": ["boilerplate"],
       "comment": "Missing required name field in package.json"
+    },
+    "srsholmes/serverless-reasonml-starter": {
+      "repository": "github:srsholmes/serverless-reasonml-starter",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, missing homepage url, issues url -- not on master branch, apparently we can't handle that (yet)"
     }
   },
   
