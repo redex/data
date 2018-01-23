@@ -654,6 +654,11 @@
       "platforms": ["browser"],
       "keywords": ["graphql", "data fetching"]
     },
+    "stats.re": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["math", "utilities"]
+    },
     "tween.re": {
       "category": "library",
       "flags": ["neglected"],
