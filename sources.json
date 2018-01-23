@@ -633,11 +633,6 @@
       "platforms": ["any"],
       "keywords": ["utilities"]
     },
-    "razzle": {
-      "category": "tool",
-      "platforms": ["node"],
-      "keywords": ["react", "ssr", "boilerplate"]
-    },
     "re-classnames": {
       "category": "library",
       "platforms": ["any"],
