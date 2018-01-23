@@ -67,6 +67,35 @@
       "keywords": ["jquery", "utilities", "dom"],
       "comment": "Outdated, invalid instructions"
     },
+    "@phenomic/reason": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["ssr", "platform api"],
+      "comment": "Inadequate readme"
+    },
+    "@jaredly/reasongl-android": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["native"],
+      "keywords": ["opengl", "graphics"],
+      "comment": "Inadequate readme, missing license"
+    },
+    "add-reason": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["boilerplate"]
+    },
+    "babel-plugin-bucklescript": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["plugin?"]
+    },
+    "bs-abstract": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["utilities"]
+    },
     "bs-aeson": {
       "category": "library",
       "flags": ["neglected"],
@@ -145,6 +174,13 @@
       "platforms": ["browser"],
       "keywords": ["css"]
     },
+    "bs-cookie-parser": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["browser", "node"],
+      "keywords": ["parsing"],
+      "comment": "Inadequate readme"
+    },
     "bs-css-core": {
       "category": "library",
       "flags": ["neglected"],
@@ -185,10 +221,31 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
+    "bs-effects": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["any"],
+      "keywords": ["async", "utilities"],
+      "comment": "Inadequate readme"
+    },
     "bs-enzyme": {
       "category": "binding",
       "platforms": ["node"],
       "keywords": ["react", "testing"]
+    },
+    "bs-errors": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["utilities"],
+      "comment": "Inadequate readme"
+    },
+    "bs-expo": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["react", "platform api"],
+      "comment": "Inadequate readme"
     },
     "bs-express": {
       "category": "binding",
@@ -208,6 +265,13 @@
       "platforms": ["browser", "node"],
       "keywords": ["database", "data fetching", "cloud service api"],
       "comment": "Inadequate/misleading readme"
+    },
+    "bs-free": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["any"],
+      "keywords": ["utilities"],
+      "comment": "Inadequate readme"
     },
     "bs-gcloud": {
       "category": "binding",
@@ -281,6 +345,11 @@
       "keywords": ["react", "ui"]
     },
     "bs-material-ui-icons": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
+    "bs-material-ui-pickers": {
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
@@ -493,6 +562,11 @@
       "platforms": ["browser"],
       "keywords": ["utilities"]
     },
+    "bstr": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["boilerplate"]
+    },
     "bucklescript-phx": {
       "category": "binding",
       "platforms": ["browser"],
@@ -508,6 +582,30 @@
       "platforms": ["any"],
       "keywords": ["collections"]
     },
+    "esy-peasy": {
+      "category": "tool",
+      "flags": ["neglected"],
+      "platforms": ["native"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme"
+    },
+    "generator-reason-react-class": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["code generation"]
+    },
+    "generator-reasonable-node": {
+      "category": "tool",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["code generation"],
+      "comment": "Inadequate/misleading readme"
+    },
+    "gimme-reason": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["boilerplate"]
+    },
     "immutable-re": {
       "category": "library",
       "platforms": ["any"],
@@ -518,10 +616,27 @@
       "platforms": ["browser", "node"],
       "keywords": ["json", "data serialization"]
     },
+    "minimist.re": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["native"],
+      "keywords": ["cli"],
+      "comment": "Inadequate readme, missing repository url"
+    },
+    "ppx_bsx": {
+      "category": "tool",
+      "platforms": ["any"],
+      "keywords": ["react", "ppx"]
+    },
     "rationale": {
       "category": "library",
       "platforms": ["any"],
       "keywords": ["utilities"]
+    },
+    "razzle": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["react", "ssr", "boilerplate"]
     },
     "re-classnames": {
       "category": "library",
@@ -566,10 +681,24 @@
       "keywords": ["async"],
       "comment": "Missing repository url"
     },
+    "reason_apollo": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["any"],
+      "keywords": ["async", "ppx"],
+      "comment": "Missing description, repository url"
+    },
     "reason-apollo": {
       "category": "binding",
       "platforms": ["node"],
       "keywords": ["react", "graphql", "data fetching"]
+    },
+    "reason-cli-tools": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["native"],
+      "keywords": ["cli", "filesystem"],
+      "comment": "Inadequate readme, missing description, repository url"
     },
     "reason-elm": {
       "category": "library",
@@ -582,6 +711,11 @@
       "category": "binding",
       "platforms": ["node"],
       "keywords": ["actor system"]
+    },
+    "reason-navigation": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react", "routing"]
     },
     "reason-nconf": {
       "category": "binding",
@@ -600,11 +734,68 @@
       "platforms": ["browser", "node"],
       "keywords": ["react", "virtual dom", "state management"]
     },
+    "reason-react-native-scripts": {
+      "category": "tool",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["react", "boilerplate"],
+      "comment": "Inadequate readme, missing repository url"
+    },
+    "reason-react-primitives": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"],
+      "comment": "Inadequate readme, missing repository url"
+    },
+    "reason-relay-scripts": {
+      "category": "tool",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["react", "boilerplate"],
+      "comment": "Inadequate readme"
+    },
+    "reason-scripts": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["react", "boilerplate"]
+    },
+    "reason-simple-server": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["native"],
+      "keywords": ["http server"],
+      "comment": "Inadequate readme, missing repository url"
+    },
     "reason-these": {
       "category": "library",
       "flags": ["neglected"],
       "platforms": ["any"],
       "keywords": ["utilities"],
+      "comment": "Inadequate readme"
+    },
+    "reason-webpack-plugin": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["plugin?"],
+      "comment": "Inadequate readme, dead repository url"
+    },
+    "reasonable-flowgen": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["code generation"]
+    },
+    "reasonably-typed": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["code generation"]
+    },
+    "reasonml-in-browser": {
+      "category": "tool",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["uncategorized"],
       "comment": "Inadequate readme"
     },
     "redataloader": {
@@ -620,6 +811,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["react", "state management"],
       "comment": "Missing repository url, installation instructions"
+    },
+    "refmterr": {
+      "category": "tool",
+      "platforms": ["native"],
+      "keywords": ["uncategorized"]
     },
     "reglinterface": {
       "category": "library",
@@ -654,10 +850,27 @@
       "platforms": ["browser"],
       "keywords": ["graphql", "data fetching"]
     },
+    "rex-json": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["json", "parsing"]
+    },
+    "rollup-plugin-bucklescript": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["plugin?"]
+    },
     "stats.re": {
       "category": "library",
       "platforms": ["any"],
       "keywords": ["math", "utilities"]
+    },
+    "stylite-re": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["css"],
+      "comment": "Inadequate readme, missing repository url"
     },
     "tween.re": {
       "category": "library",
@@ -665,10 +878,23 @@
       "platforms": ["browser"],
       "keywords": ["animation"],
       "comment": "Missing readme, repository url"
+    },
+    "upgrade-reason-syntax": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": []
     }
   },
 
   "unpublished": {
+    "aaronshaf/parcel-reasonml-starter": {
+      "repository": "github:aaronshaf/parcel-reasonml-starter",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, missing description, license, homepage url, issues url"
+    },
     "af/bs-d3": {
       "repository": "github:af/bs-d3",
       "category": "binding",
@@ -715,6 +941,30 @@
       "keywords": ["real-time communication"],
       "comment": "Inadequate readme, missing license, homepage url, issues url"
     },
+    "codinglawyer/reason-react-boilerplate": {
+      "repository": "github:codinglawyer/reason-react-boilerplate",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["react", "boilerplate"],
+      "comment": "Inadequate readme"
+    },
+    "derui/bs-boilerplate": {
+      "repository": "github:derui/bs-boilerplate",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["boilerplate"],
+      "comment": "Missing description, homepage url, issues url"
+    },
+    "drejohnson/reason-webpack-ssr": {
+      "repository": "github:drejohnson/reason-webpack-ssr",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, missing description, homepage url, issues url"
+    },
     "freebroccolo/bucklescript-electron": {
       "repository": "github:freebroccolo/bucklescript-electron",
       "category": "binding",
@@ -747,6 +997,30 @@
       "keywords": ["testing"],
       "comment": "Inadequate readme, syntax error in example"
     },
+    "glennsl/reasonable-atom-starter": {
+      "repository": "github:glennsl/reasonable-atom-starter",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, missing homepage url, issues url"
+    },
+    "glennsl/reasonable-gatsby-starter": {
+      "repository": "github:glennsl/reasonable-gatsby-starter",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, missing homepage url, issues url"
+    },
+    "glennsl/reasonable-vscode-starter": {
+      "repository": "github:glennsl/reasonable-vscode-starter",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, missing license, homepage url, issues url"
+    },
     "glennsl/refetch": {
       "repository": "github:glennsl/refetch",
       "category": "library",
@@ -766,6 +1040,38 @@
       "platforms": ["browser", "node"],
       "keywords": ["testing"],
       "comment": "Inadequate readme"
+    },
+    "jchavarri/chrome-extension-starter-reason-react": {
+      "repository": "github:jchavarri/chrome-extension-starter-reason-react",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, missing description, homepage url, issues url"
+    },
+    "kennetpostigo/lwt-node-starter": {
+      "repository": "github:kennetpostigo/lwt-node-starter",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, homepage url, issues url"
+    },
+    "leohxj/reason-rollup-starter": {
+      "repository": "github:leohxj/reason-rollup-starter",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, missing description, homepage url, issues url"
+    },
+    "PaulPopat/reason-react-electron-boilerplate": {
+      "repository": "github:PaulPopat/reason-react-electron-boilerplate",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, missing description, license, homepage url, issues url"
     },
     "reasonml-community/bs-discord.js": {
       "repository": "github:reasonml-community/bs-discord.js",
@@ -829,17 +1135,35 @@
       "keywords": ["data serialization"],
       "comment": "Inadequate readme, missing license, issues url"
     },
-    "Risto-Stevcev/bs-abstract": {
-      "repository": "github:Risto-Stevcev/bs-abstract",
-      "category": "library",
-      "platforms": ["any"],
-      "keywords": ["utilities"]
-    },
     "Schmavery/reprocessing": {
       "repository": "github:Schmavery/reprocessing",
       "category": "library",
       "platforms": ["browser", "native"],
       "keywords": ["opengl", "graphics"]
+    },
+    "slogsdon/bsb-native-starter": {
+      "repository": "github:slogsdon/bsb-native-starter",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["boilerplate"],
+      "comment": "Missing description, homepage url, issues url"
+    },
+    "slogsdon/reasonably-reactive-rust": {
+      "repository": "github:slogsdon/reasonably-reactive-rust",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["boilerplate"],
+      "comment": "Missing description, homepage url, issues url"
+    },
+    "spencerwi/generator-ocaml-bucklescript-webpack": {
+      "repository": "github:spencerwi/generator-ocaml-bucklescript-webpack",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, missing homepage url, issues url"
     },
     "splish-me/bs-storybook": {
       "repository": "github:splish-me/bs-storybook",
@@ -848,6 +1172,14 @@
       "platforms": ["browser", "node"],
       "keywords": ["react", "dev tools"],
       "comment": "Inadequate readme, missing description, license, homepage url, issues url"
+    },
+    "srsholmes/serverless-reasonml-starter": {
+      "repository": "github:srsholmes/serverless-reasonml-starter",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, missing homepage url, issues url"
     },
     "state-machine-systems/JsonCodec": {
       "repository": "github:state-machine-systems/JsonCodec",
@@ -864,6 +1196,14 @@
       "platforms": ["node"],
       "keywords": ["react", "routing"],
       "comment": "Missing installation instructions"
+    },
+    "tcoopman/bucklescript-tea-starter-kit": {
+      "repository": "github:tcoopman/bucklescript-tea-starter-kit",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["boilerplate"],
+      "comment": "Inadequate readme, missing description, homepage url, issues url"
     },
     "threepointone/bs-nice": {
       "repository": "github:threepointone/bs-nice",
@@ -906,12 +1246,33 @@
   },
 
   "prematurely-published": {
+    "apollo-codegen-reason": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information"
+    },
+    "babel-preset-reason": {
+      "category": "tool",
+      "flags": ["unusable"],
+      "platforms": ["node"],
+      "keywords": ["plugin?"],
+      "comment": "Squatting"
+    },
     "bs-async": {
       "category": "unknown",
       "flags": ["unusable"],
       "platforms": [],
       "keywords": [],
       "comment": "Severe lack of information"
+    },
+    "bs-react-router": {
+      "category": "binding",
+      "flags": ["unusable"],
+      "platforms": ["browser"],
+      "keywords": ["react", "routing"],
+      "comment": "NOT READY (according to readme)"
     },
     "bs-sentia-http": {
       "category": "unknown",
@@ -962,12 +1323,33 @@
       "keywords": ["collections"],
       "comment": "Severe lack of information"
     },
+    "bs-telepathic": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information"
+    },
+    "interactive-pictures": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
+    },
     "re-business": {
       "category": "unknown",
       "flags": ["unusable"],
       "platforms": [],
       "keywords": [],
       "comment": "Severe lack of information, missing repository url"
+    },
+    "reason-cli": {
+      "category": "tool",
+      "flags": ["unusable"],
+      "platforms": [],
+      "keywords": [],
+      "comment": "Not installable from registry (yet)"
     },
     "reason-commons": {
       "category": "unknown",
@@ -1018,6 +1400,20 @@
       "keywords": [],
       "comment": "Severe lack of information, missing repository url"
     },
+    "reason-ui": {
+      "category": "unknown",
+      "flags": ["unusable"],
+      "platforms": ["node"],
+      "keywords": [],
+      "comment": "Severe lack of information, missing repository url"
+    },
+    "reasonml": {
+      "category": "tool",
+      "flags": ["unusable"],
+      "platforms": ["node"],
+      "keywords": ["plugin?"],
+      "comment": "Squatting"
+    },
     "sentia.bs.result": {
       "category": "unknown",
       "flags": ["unusable"],
@@ -1042,6 +1438,22 @@
   },
   
   "prematurely-unpublished": {
+    "Astrocoders/bs-package-boilerplate": {
+      "repository": "github:Astrocoders/bs-package-boilerplate",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["browser", "node"],
+      "keywords": ["boilerplate"],
+      "comment": "Provides nothing beyond the basic bsb template"
+    },
+    "jaredly/reason-bucklescript-example": {
+      "repository": "github:jaredly/reason-bucklescript-example",
+      "category": "boilerplate",
+      "flags": ["neglected"],
+      "platforms": ["browser", "node"],
+      "keywords": ["boilerplate"],
+      "comment": "Missing required name field in package.json"
+    }
   },
   
   "obsolete": [
@@ -1050,20 +1462,60 @@
     "bs-json",
     "bs-node-fetch",
     "bs-string",
+    "create-reason-react-app",
     "glennsl/bs-debug",
+    "philholden/reason-web-starterkit",
     "reasonml-community/bs-containers",
-    "reason-rebase"
+    "reason-rebase",
+    "vramana/rebs"
   ],
     
   "rejected": {
+    "@jaredly/reasongl-interface": {
+      "comment": "Unjustified fork"
+    },
+    "@jaredly/reasongl-ios": {
+      "comment": "Unjustified fork"
+    },
+    "@jaredly/reasongl-native": {
+      "comment": "Unjustified fork"
+    },
+    "@jaredly/reasongl-web": {
+      "comment": "Unjustified fork"
+    },
+    "@jaredly/reprocessing": {
+      "comment": "Unjustified fork"
+    },
     "bs-readline-example": {
       "comment": "Example, published for unknown reasons"
     },
     "IwanKaramazow/transducers.re": {
       "comment": "Missing package.json"
     },
+
     "bs-fizzbuzz": {
       "comment": "Toy project"
+    },
+    "bs-material-ui-plus": {
+      "comment": "Unjustified fork"
+    },
+    "create-reason": {
+      "comment": "Not sure why this is published, maybe esy will make it clear at some point"
+    },
+    "flex": {
+      "comment": "Doesn't seem like it's related to Reason outside of being made with it"
+    },
+    "raisin": {
+      "comment": "Abandoned experiment"
+    },
+    "reason-bin": {
+      "comment": "Abandoned experiment?"
+    },
+    "reason-react-boilerplate": {
+      "comment": "Not actually installable"
+    },
+    "reason-react-ruby": {
+      "comment": "Abandoned toy project"
     }
   }
 }
