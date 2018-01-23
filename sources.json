@@ -1206,7 +1206,7 @@
       "comment": "Missing installation instructions"
     },
     "TomLingham/bs-node-http": {
-      "repository": "github:threepointone/bs-nice",
+      "repository": "github:TomLingham/bs-node-http",
       "category": "binding",
       "platforms": ["node"],
       "keywords": ["http client", "http server"]
