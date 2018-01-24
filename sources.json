@@ -64,7 +64,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["jquery", "utilities", "dom"],
+      "keywords": ["utilities", "dom"],
       "comment": "Outdated, invalid instructions"
     },
     "@phenomic/reason": {
@@ -385,7 +385,7 @@
     "bs-most": {
       "category": "binding",
       "platforms": ["browser", "node"],
-      "keywords": ["reactive programming", "state management?"]
+      "keywords": ["reactive programming"]
     },
     "bs-mysql": {
       "category": "binding",
@@ -705,7 +705,7 @@
     "reason-nact": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["actor system"]
+      "keywords": ["async"]
     },
     "reason-navigation": {
       "category": "library",
@@ -925,7 +925,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["virtual-dom"],
+      "keywords": ["virtual dom"],
       "comment": "Inadequate readme, missing installation instructions"
     },
     "bsansouci/rewebrtc": {
@@ -973,7 +973,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["testing?"],
+      "keywords": ["testing"],
       "comment": "Inadequate readme"
     },
     "glennsl/bs-refmt": {
