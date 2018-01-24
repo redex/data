@@ -89,7 +89,7 @@
     "babel-plugin-bucklescript": {
       "category": "tool",
       "platforms": ["node"],
-      "keywords": ["plugin?"]
+      "keywords": ["development tools"]
     },
     "bs-abstract": {
       "category": "library",
@@ -401,7 +401,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["logging", "utilities"],
+      "keywords": ["development tools"],
       "comment": "Inadequate readme, missing repository url"
     },
     "bs-nprogress": {
@@ -492,7 +492,7 @@
       "category": "library",
       "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["logging", "utilities"],
+      "keywords": ["development tools"],
       "comment": "Missing repository url"
     },
     "bs-reform": {
@@ -773,7 +773,7 @@
       "category": "library",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["plugin?"],
+      "keywords": ["development tools"],
       "comment": "Inadequate readme, dead repository url"
     },
     "reasonable-flowgen": {
@@ -853,7 +853,7 @@
     "rollup-plugin-bucklescript": {
       "category": "tool",
       "platforms": ["node"],
-      "keywords": ["plugin?"]
+      "keywords": ["development tools"]
     },
     "stats.re": {
       "category": "library",
@@ -877,7 +877,7 @@
     "upgrade-reason-syntax": {
       "category": "tool",
       "platforms": ["node"],
-      "keywords": []
+      "keywords": ["development tools"]
     }
   },
 
@@ -1244,7 +1244,7 @@
       "category": "tool",
       "flags": ["unusable"],
       "platforms": ["node"],
-      "keywords": ["plugin?"],
+      "keywords": ["development tools"],
       "comment": "Squatting"
     },
     "bs-async": {
@@ -1398,7 +1398,7 @@
       "category": "tool",
       "flags": ["unusable"],
       "platforms": ["node"],
-      "keywords": ["plugin?"],
+      "keywords": ["development tools"],
       "comment": "Squatting"
     },
     "sentia.bs.result": {
