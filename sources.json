@@ -642,7 +642,7 @@
       "category": "library",
       "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["uncategorized"],
+      "keywords": ["development tools"],
       "comment": "Inadequate readme"
     },
     "re-formality": {
@@ -699,7 +699,7 @@
       "category": "library",
       "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["uncategorized"],
+      "keywords": ["development tools"],
       "comment": "Inadequate readme"
     },
     "reason-nact": {
@@ -790,7 +790,7 @@
       "category": "tool",
       "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["uncategorized"],
+      "keywords": ["development tools"],
       "comment": "Inadequate readme"
     },
     "redataloader": {
@@ -810,7 +810,7 @@
     "refmterr": {
       "category": "tool",
       "platforms": ["native"],
-      "keywords": ["uncategorized"]
+      "keywords": ["development tools"]
     },
     "reglinterface": {
       "category": "library",
@@ -1165,7 +1165,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["react", "dev tools"],
+      "keywords": ["react", "development tools"],
       "comment": "Inadequate readme, missing description, license, homepage url, issues url"
     },
     "state-machine-systems/JsonCodec": {
