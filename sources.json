@@ -392,6 +392,11 @@
       "platforms": ["node"],
       "keywords": ["sql", "database"]
     },
+    "bs-mysql2": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["sql", "database"]
+    },
     "bs-next": {
       "category": "binding",
       "platforms": ["node"],
