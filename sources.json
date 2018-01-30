@@ -60,6 +60,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["standard library", "collections", "utilities"]
     },
+    "@glennsl/rebug": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["development tools"]
+    },
     "@nebuta/bs-jquery": {
       "category": "binding",
       "flags": ["neglected"],
@@ -490,13 +495,6 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"],
       "comment": "Inadequate readme"
-    },
-    "bs-rebug": {
-      "category": "library",
-      "flags": ["neglected"],
-      "platforms": ["browser", "node"],
-      "keywords": ["development tools"],
-      "comment": "Missing repository url"
     },
     "bs-reform": {
       "category": "library",
