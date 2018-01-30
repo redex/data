@@ -197,10 +197,8 @@
     },
     "bs-date-fns": {
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["date/time manipulation"],
-      "comment": "Missing installation instructions"
+      "keywords": ["date/time manipulation"]
     },
     "bs-director": {
       "category": "binding",
