@@ -977,6 +977,12 @@
       "keywords": ["testing"],
       "comment": "Inadequate readme"
     },
+    "glennsl/bs-in-a-box": {
+      "repository": "github:glennsl/bs-in-a-box",
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["utilities"]
+    },
     "glennsl/bs-refmt": {
       "repository": "github:glennsl/bs-refmt",
       "category": "binding",
