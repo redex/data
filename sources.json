@@ -980,10 +980,8 @@
     "glennsl/bs-refmt": {
       "repository": "github:glennsl/bs-refmt",
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["utilities"],
-      "comment": "Inadequate readme, missing description, homepage url, issues url"
+      "keywords": ["utilities"]
     },
     "glennsl/infinite-jest": {
       "repository": "github:glennsl/infinite-jest",
