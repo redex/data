@@ -79,6 +79,11 @@
       "keywords": ["ssr", "platform api"],
       "comment": "Inadequate readme"
     },
+    "@stroiman/respect": {
+      "category": "library",
+      "platforms": ["node"],
+      "keywords": ["testing"]
+    },    
     "@jaredly/reasongl-android": {
       "category": "library",
       "flags": ["neglected"],
@@ -657,11 +662,6 @@
       "platforms": ["browser", "node"],
       "keywords": ["database"],
       "comment": "Inadequate readme"
-    },
-    "re-respect": {
-      "category": "library",
-      "platforms": ["node"],
-      "keywords": ["testing"]
     },
     "re-spring": {
       "category": "library",
