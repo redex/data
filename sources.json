@@ -929,6 +929,14 @@
       "keywords": ["virtual dom"],
       "comment": "Inadequate readme, missing installation instructions"
     },
+    "bsansouci/bsb-native": {
+      "repository": "github:bsansouci/bsb-native",
+      "category": "tool",
+      "flags": ["neglected"],
+      "platforms": ["native"],
+      "keywords": ["development tools"],
+      "comment": "Invalid license"
+    },
     "bsansouci/rewebrtc": {
       "repository": "github:bsansouci/rewebrtc",
       "category": "binding",
