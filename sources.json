@@ -991,6 +991,12 @@
       "platforms": ["browser", "node"],
       "keywords": ["utilities"]
     },
+    "glennsl/bs-jsx-rewriter": {
+      "repository": "github:glennsl/bs-jsx-rewriter",
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["utilities"]
+    },
     "glennsl/bs-refmt": {
       "repository": "github:glennsl/bs-refmt",
       "category": "binding",
