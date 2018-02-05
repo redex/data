@@ -879,6 +879,11 @@
       "category": "tool",
       "platforms": ["node"],
       "keywords": ["development tools"]
+    },
+    "@wokalski/vow": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["async"]
     }
   },
 
@@ -1232,14 +1237,6 @@
       "platforms": ["browser", "node"],
       "keywords": ["react"],
       "comment": "Missing description, homepage url, issues url, installation instructions"
-    },
-    "wokalski/vow": {
-      "repository": "github:wokalski/vow",
-      "category": "library",
-      "flags": ["neglected"],
-      "platforms": ["browser", "node"],
-      "keywords": ["async"],
-      "comment": "Missing installation instructions"
     },
     "zploskey/bs-puppeteer": {
       "repository": "github:zploskey/bs-puppeteer",
