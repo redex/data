@@ -1241,10 +1241,8 @@
     "zploskey/bs-puppeteer": {
       "repository": "github:zploskey/bs-puppeteer",
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["platform api"],
-      "comment": "Inadequate readme, missing description, homepage url"
+      "keywords": ["platform api"]
     }
   },
 
