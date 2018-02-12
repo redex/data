@@ -65,6 +65,13 @@
       "platforms": ["browser", "node"],
       "keywords": ["development tools"]
     },
+    "@jaredly/reasongl-android": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["native"],
+      "keywords": ["opengl", "graphics"],
+      "comment": "Inadequate readme, missing license"
+    },
     "@nebuta/bs-jquery": {
       "category": "binding",
       "flags": ["neglected"],
@@ -83,13 +90,6 @@
       "category": "library",
       "platforms": ["node"],
       "keywords": ["testing"]
-    },    
-    "@jaredly/reasongl-android": {
-      "category": "library",
-      "flags": ["neglected"],
-      "platforms": ["native"],
-      "keywords": ["opengl", "graphics"],
-      "comment": "Inadequate readme, missing license"
     },
     "add-reason": {
       "category": "tool",
