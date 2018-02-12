@@ -1154,6 +1154,14 @@
       "keywords": ["data serialization"],
       "comment": "Inadequate readme, missing license, issues url"
     },
+    "SentiaAnalytics/bs-react-motion": {
+      "repository": "github:SentiaAnalytics/bs-react-motion",
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["animation", "react"],
+      "comment": "Severely inadequate readme, missing license, description, repository, homepage, issues url"
+    },
     "Schmavery/reprocessing": {
       "repository": "github:Schmavery/reprocessing",
       "category": "library",
