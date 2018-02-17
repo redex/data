@@ -236,6 +236,11 @@
       "keywords": ["async", "utilities"],
       "comment": "Inadequate readme"
     },
+    "bs-elm": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["development tools"]
+    },
     "bs-enzyme": {
       "category": "binding",
       "platforms": ["node"],
