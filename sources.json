@@ -239,7 +239,7 @@
     "bs-elm": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["elm"]
+      "keywords": ["development tools"]
     },
     "bs-enzyme": {
       "category": "binding",
