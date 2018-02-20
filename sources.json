@@ -136,10 +136,8 @@
     },
     "bs-ant-design": {
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["react", "ui"],
-      "comment": "Inadequate readme"
+      "keywords": ["react", "ui"]
     },
     "bs-apollo-server-express": {
       "category": "binding",
