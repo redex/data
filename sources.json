@@ -1203,6 +1203,12 @@
       "keywords": ["react", "development tools"],
       "comment": "Inadequate readme, missing description, license, homepage url, issues url"
     },
+    "srsholmes/colors.re": {
+      "repository": "github:srsholmes/colors.re",
+      "category": "library",
+      "platforms": ["node"],
+      "keywords": ["cli"]
+    },
     "state-machine-systems/JsonCodec": {
       "repository": "github:state-machine-systems/JsonCodec",
       "category": "library",
