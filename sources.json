@@ -773,6 +773,11 @@
       "keywords": ["utilities"],
       "comment": "Inadequate readme"
     },
+    "reason-tttoe": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["game development"]
+    },
     "reason-webpack-plugin": {
       "category": "library",
       "flags": ["neglected"],
