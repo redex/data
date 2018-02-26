@@ -3,7 +3,7 @@
     "@ahrefs/bs-aws-lambda": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["aws", "lambda", "serverless"]
+      "keywords": ["platform api"]
     },
     "@astrada/bs-react-fela": {
       "category": "binding",
