@@ -1,5 +1,10 @@
 {
   "published": {
+    "@ahrefs/bs-dotenv": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["dotenv", "environment", "twelve-factor", "serverless"]
+    },
     "@astrada/bs-react-fela": {
       "category": "binding",
       "platforms": ["browser"],
