@@ -1,5 +1,10 @@
 {
   "published": {
+    "@ahrefs/bs-aws-lambda": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["aws", "lambda", "serverless"]
+    },
     "@astrada/bs-react-fela": {
       "category": "binding",
       "platforms": ["browser"],
