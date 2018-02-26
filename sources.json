@@ -3,7 +3,7 @@
     "@ahrefs/bs-dotenv": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["dotenv", "environment", "twelve-factor", "serverless"]
+      "keywords": ["development tools"]
     },
     "@astrada/bs-react-fela": {
       "category": "binding",
