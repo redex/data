@@ -4,6 +4,7 @@
       "category": "binding",
       "platforms": ["node"],
       "keywords": ["platform api"]
+    },
     "@ahrefs/bs-dotenv": {
       "category": "binding",
       "platforms": ["node"],
