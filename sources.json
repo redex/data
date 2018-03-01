@@ -475,10 +475,8 @@
     },
     "bs-react-intl": {
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["react", "i18n"],
-      "comment": "Inadequate readme"
+      "keywords": ["react", "i18n"]
     },
     "bs-react-native": {
       "category": "binding",
