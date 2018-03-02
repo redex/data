@@ -459,6 +459,11 @@
       "keywords": ["express", "routing"],
       "comment": "Missing installation instructions"
     },
+    "bs-puppeteer": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["platform api", "development tools", "testing"]
+    },
     "bs-react-art": {
       "category": "binding",
       "flags": ["neglected"],
@@ -1267,12 +1272,6 @@
       "platforms": ["browser", "node"],
       "keywords": ["react"],
       "comment": "Missing description, homepage url, issues url, installation instructions"
-    },
-    "zploskey/bs-puppeteer": {
-      "repository": "github:zploskey/bs-puppeteer",
-      "category": "binding",
-      "platforms": ["node"],
-      "keywords": ["platform api"]
     }
   },
 
