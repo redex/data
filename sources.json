@@ -1,5 +1,15 @@
 {
   "published": {
+    "@ahrefs/bs-aws-lambda": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["platform api"]
+    },
+    "@ahrefs/bs-dotenv": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["development tools"]
+    },
     "@astrada/bs-react-fela": {
       "category": "binding",
       "platforms": ["browser"],
@@ -60,6 +70,18 @@
       "platforms": ["browser", "node"],
       "keywords": ["standard library", "collections", "utilities"]
     },
+    "@glennsl/rebug": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["development tools"]
+    },
+    "@jaredly/reasongl-android": {
+      "category": "library",
+      "flags": ["neglected"],
+      "platforms": ["native"],
+      "keywords": ["opengl", "graphics"],
+      "comment": "Inadequate readme, missing license"
+    },
     "@nebuta/bs-jquery": {
       "category": "binding",
       "flags": ["neglected"],
@@ -74,12 +96,10 @@
       "keywords": ["ssr", "platform api"],
       "comment": "Inadequate readme"
     },
-    "@jaredly/reasongl-android": {
+    "@stroiman/respect": {
       "category": "library",
-      "flags": ["neglected"],
-      "platforms": ["native"],
-      "keywords": ["opengl", "graphics"],
-      "comment": "Inadequate readme, missing license"
+      "platforms": ["node"],
+      "keywords": ["testing"]
     },
     "add-reason": {
       "category": "tool",
@@ -126,10 +146,8 @@
     },
     "bs-ant-design": {
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["react", "ui"],
-      "comment": "Inadequate readme"
+      "keywords": ["react", "ui"]
     },
     "bs-apollo-server-express": {
       "category": "binding",
@@ -197,10 +215,8 @@
     },
     "bs-date-fns": {
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["date/time manipulation"],
-      "comment": "Missing installation instructions"
+      "keywords": ["date/time manipulation"]
     },
     "bs-director": {
       "category": "binding",
@@ -227,6 +243,11 @@
       "platforms": ["any"],
       "keywords": ["async", "utilities"],
       "comment": "Inadequate readme"
+    },
+    "bs-elm": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["development tools"]
     },
     "bs-enzyme": {
       "category": "binding",
@@ -454,10 +475,8 @@
     },
     "bs-react-intl": {
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["react", "i18n"],
-      "comment": "Inadequate readme"
+      "keywords": ["react", "i18n"]
     },
     "bs-react-native": {
       "category": "binding",
@@ -492,13 +511,6 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"],
       "comment": "Inadequate readme"
-    },
-    "bs-rebug": {
-      "category": "library",
-      "flags": ["neglected"],
-      "platforms": ["browser", "node"],
-      "keywords": ["development tools"],
-      "comment": "Missing repository url"
     },
     "bs-reform": {
       "category": "library",
@@ -662,11 +674,6 @@
       "keywords": ["database"],
       "comment": "Inadequate readme"
     },
-    "re-respect": {
-      "category": "library",
-      "platforms": ["node"],
-      "keywords": ["testing"]
-    },
     "re-spring": {
       "category": "library",
       "flags": ["neglected"],
@@ -773,6 +780,11 @@
       "platforms": ["any"],
       "keywords": ["utilities"],
       "comment": "Inadequate readme"
+    },
+    "reason-tttoe": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["game development"]
     },
     "reason-webpack-plugin": {
       "category": "library",
@@ -883,6 +895,11 @@
       "category": "tool",
       "platforms": ["node"],
       "keywords": ["development tools"]
+    },
+    "@wokalski/vow": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["async"]
     }
   },
 
@@ -933,6 +950,14 @@
       "keywords": ["virtual dom"],
       "comment": "Inadequate readme, missing installation instructions"
     },
+    "bsansouci/bsb-native": {
+      "repository": "github:bsansouci/bsb-native",
+      "category": "tool",
+      "flags": ["neglected"],
+      "platforms": ["native"],
+      "keywords": ["development tools"],
+      "comment": "Invalid license"
+    },
     "bsansouci/rewebrtc": {
       "repository": "github:bsansouci/rewebrtc",
       "category": "binding",
@@ -981,13 +1006,23 @@
       "keywords": ["testing"],
       "comment": "Inadequate readme"
     },
+    "glennsl/bs-in-a-box": {
+      "repository": "github:glennsl/bs-in-a-box",
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["utilities"]
+    },
+    "glennsl/bs-jsx-rewriter": {
+      "repository": "github:glennsl/bs-jsx-rewriter",
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["utilities"]
+    },
     "glennsl/bs-refmt": {
       "repository": "github:glennsl/bs-refmt",
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["utilities"],
-      "comment": "Inadequate readme, missing description, homepage url, issues url"
+      "keywords": ["utilities"]
     },
     "glennsl/infinite-jest": {
       "repository": "github:glennsl/infinite-jest",
@@ -1135,6 +1170,14 @@
       "keywords": ["data serialization"],
       "comment": "Inadequate readme, missing license, issues url"
     },
+    "SentiaAnalytics/bs-react-motion": {
+      "repository": "github:SentiaAnalytics/bs-react-motion",
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["browser"],
+      "keywords": ["animation", "react"],
+      "comment": "Severely inadequate readme, missing license, description, repository, homepage, issues url"
+    },
     "Schmavery/reprocessing": {
       "repository": "github:Schmavery/reprocessing",
       "category": "library",
@@ -1172,6 +1215,12 @@
       "platforms": ["browser", "node"],
       "keywords": ["react", "development tools"],
       "comment": "Inadequate readme, missing description, license, homepage url, issues url"
+    },
+    "srsholmes/colors.re": {
+      "repository": "github:srsholmes/colors.re",
+      "category": "library",
+      "platforms": ["node"],
+      "keywords": ["cli"]
     },
     "state-machine-systems/JsonCodec": {
       "repository": "github:state-machine-systems/JsonCodec",
@@ -1219,21 +1268,11 @@
       "keywords": ["react"],
       "comment": "Missing description, homepage url, issues url, installation instructions"
     },
-    "wokalski/vow": {
-      "repository": "github:wokalski/vow",
-      "category": "library",
-      "flags": ["neglected"],
-      "platforms": ["browser", "node"],
-      "keywords": ["async"],
-      "comment": "Missing installation instructions"
-    },
     "zploskey/bs-puppeteer": {
       "repository": "github:zploskey/bs-puppeteer",
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["platform api"],
-      "comment": "Inadequate readme, missing description, homepage url"
+      "keywords": ["platform api"]
     }
   },
 
