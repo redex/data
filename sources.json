@@ -551,12 +551,12 @@
       "comment": "Inadequate readme"
     },
     "bs-sql-common": {
-      "category": "sql",
+      "category": "library",
       "platforms": ["node"],
       "keywords": ["sql","database"]
     },
     "bs-sql-composer": {
-      "category": "sql",
+      "category": "library",
       "platforms": ["node"],
       "keywords": ["sql", "database"]
     },
