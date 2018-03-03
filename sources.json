@@ -555,6 +555,16 @@
       "keywords": ["cloud service api"],
       "comment": "Inadequate readme"
     },
+    "bs-sql-common": {
+      "category": "library",
+      "platforms": ["node"],
+      "keywords": ["sql","database"]
+    },
+    "bs-sql-composer": {
+      "category": "library",
+      "platforms": ["node"],
+      "keywords": ["sql", "database"]
+    },
     "bs-svg-attachment": {
       "category": "binding",
       "platforms": ["browser"],
