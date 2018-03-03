@@ -82,6 +82,11 @@
       "keywords": ["opengl", "graphics"],
       "comment": "Inadequate readme, missing license"
     },
+    "@kogai/typed_i18n": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["i18n"]
+    },
     "@nebuta/bs-jquery": {
       "category": "binding",
       "flags": ["neglected"],
@@ -206,6 +211,11 @@
       "keywords": ["css"],
       "comment": "Inadequate readme"
     },
+    "bs-cmdliner": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["cli"]
+    },
     "bs-dataloader": {
       "category": "binding",
       "flags": ["neglected"],
@@ -236,6 +246,11 @@
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
+    },
+    "bs-easy-format": {
+      "category": "binding",
+      "platforms": ["any"],
+      "keywords": ["format"]
     },
     "bs-effects": {
       "category": "library",
