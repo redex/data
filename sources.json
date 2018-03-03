@@ -462,7 +462,7 @@
     "bs-puppeteer": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["platform api", "development tools", "testing"]
+      "keywords": ["platform api", "development tools"]
     },
     "bs-react-art": {
       "category": "binding",
