@@ -877,6 +877,11 @@
       "platforms": ["browser"],
       "keywords": ["graphql", "data fetching"]
     },
+    "reroute": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react", "routing"]
+    },
     "rex-json": {
       "category": "library",
       "platforms": ["any"],
