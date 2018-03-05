@@ -877,7 +877,7 @@
       "platforms": ["browser"],
       "keywords": ["graphql", "data fetching"]
     },
-    "reroute": {
+    "reason-reroute": {
       "category": "library",
       "platforms": ["browser"],
       "keywords": ["react", "routing"]
