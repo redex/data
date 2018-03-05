@@ -777,6 +777,11 @@
       "keywords": ["react", "boilerplate"],
       "comment": "Inadequate readme"
     },
+    "reason-reroute": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react", "routing"]
+    },
     "reason-scripts": {
       "category": "tool",
       "platforms": ["node"],
@@ -876,11 +881,6 @@
       "category": "library",
       "platforms": ["browser"],
       "keywords": ["graphql", "data fetching"]
-    },
-    "reason-reroute": {
-      "category": "library",
-      "platforms": ["browser"],
-      "keywords": ["react", "routing"]
     },
     "rex-json": {
       "category": "library",
