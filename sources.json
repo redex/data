@@ -565,6 +565,11 @@
       "platforms": ["browser"],
       "keywords": ["svg", "graphics"]
     },
+    "bs-validation": {
+      "category": "library",
+      "platforms": ["node"],
+      "keywords": ["validation"]
+    },
     "bs-vscode": {
       "category": "binding",
       "flags": ["neglected"],
