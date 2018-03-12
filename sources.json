@@ -930,6 +930,11 @@
       "category": "library",
       "platforms": ["browser", "node"],
       "keywords": ["async"]
+    },
+    "@jsiebern/bs-material-ui": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui", "ppx"]
     }
   },
 
@@ -1491,7 +1496,7 @@
       "comment": "Severe lack of information, missing repository url"
     }
   },
-  
+
   "prematurely-unpublished": {
     "Astrocoders/bs-package-boilerplate": {
       "repository": "github:Astrocoders/bs-package-boilerplate",
@@ -1518,7 +1523,7 @@
       "comment": "Inadequate readme, missing homepage url, issues url -- not on master branch, apparently we can't handle that (yet)"
     }
   },
-  
+
   "obsolete": [
     "AndrewKvalheim/bs-chalk",
     "bs-jest",
@@ -1532,7 +1537,7 @@
     "reason-rebase",
     "vramana/rebs"
   ],
-    
+
   "rejected": {
     "@jaredly/reasongl-interface": {
       "comment": "Unjustified fork"
