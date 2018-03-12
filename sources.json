@@ -187,6 +187,11 @@
       "keywords": ["cli"],
       "comment": "Inadequate readme"
     },
+    "bs-compression": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["utilities"]
+    },
     "bs-css": {
       "category": "binding",
       "platforms": ["browser"],
