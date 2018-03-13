@@ -580,6 +580,11 @@
       "platforms": ["browser"],
       "keywords": ["svg", "graphics"]
     },
+    "bs-validation": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["form validation", "utilities"]
+    },
     "bs-vscode": {
       "category": "binding",
       "flags": ["neglected"],
