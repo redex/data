@@ -82,6 +82,11 @@
       "keywords": ["opengl", "graphics"],
       "comment": "Inadequate readme, missing license"
     },
+    "@jsiebern/bs-material-ui": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui", "ppx"]
+    },
     "@nebuta/bs-jquery": {
       "category": "binding",
       "flags": ["neglected"],
