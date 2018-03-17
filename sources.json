@@ -131,8 +131,8 @@
     "bs-ajv": {
       "category": "binding",
       "flags": [],
-      "platforms": ["node"],
-      "keywords": ["json", "form validation"]
+      "platforms": ["any"],
+      "keywords": ["json"]
     },
     "bs-amplitude": {
       "category": "binding",
