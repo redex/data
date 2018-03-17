@@ -82,6 +82,11 @@
       "keywords": ["opengl", "graphics"],
       "comment": "Inadequate readme, missing license"
     },
+    "@jsiebern/bs-material-ui": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui", "ppx"]
+    },
     "@nebuta/bs-jquery": {
       "category": "binding",
       "flags": ["neglected"],
@@ -186,6 +191,11 @@
       "platforms": ["node"],
       "keywords": ["cli"],
       "comment": "Inadequate readme"
+    },
+    "bs-compression": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["utilities"]
     },
     "bs-css": {
       "category": "binding",
@@ -459,12 +469,22 @@
       "keywords": ["express", "routing"],
       "comment": "Missing installation instructions"
     },
+    "bs-puppeteer": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["platform api", "development tools"]
+    },
     "bs-react-art": {
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser"],
       "keywords": ["react", "graphics"],
       "comment": "Inadequate readme, missing repository url"
+    },
+    "bs-react-ga": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "analytics"]
     },
     "bs-react-helmet": {
       "category": "binding",
@@ -564,6 +584,11 @@
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["svg", "graphics"]
+    },
+    "bs-validation": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["form validation", "utilities"]
     },
     "bs-vscode": {
       "category": "binding",
@@ -771,6 +796,11 @@
       "platforms": ["node"],
       "keywords": ["react", "boilerplate"],
       "comment": "Inadequate readme"
+    },
+    "reason-reroute": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react", "routing"]
     },
     "reason-scripts": {
       "category": "tool",
@@ -1277,12 +1307,6 @@
       "platforms": ["browser", "node"],
       "keywords": ["react"],
       "comment": "Missing description, homepage url, issues url, installation instructions"
-    },
-    "zploskey/bs-puppeteer": {
-      "repository": "github:zploskey/bs-puppeteer",
-      "category": "binding",
-      "platforms": ["node"],
-      "keywords": ["platform api"]
     }
   },
 
