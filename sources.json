@@ -475,6 +475,11 @@
       "keywords": ["express", "routing"],
       "comment": "Missing installation instructions"
     },
+    "bs-pixl-xml": {
+      "category": "binding",
+      "platforms": ["node", "browser"],
+      "keywords": ["xml"]
+    },
     "bs-puppeteer": {
       "category": "binding",
       "platforms": ["node"],
