@@ -478,7 +478,7 @@
     "bs-pixl-xml": {
       "category": "binding",
       "platforms": ["node", "browser"],
-      "keywords": ["xml", "parser"]
+      "keywords": ["xml"]
     },
     "bs-puppeteer": {
       "category": "binding",
