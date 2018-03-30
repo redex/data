@@ -756,6 +756,11 @@
       "platforms": ["node"],
       "keywords": ["react", "graphql", "data fetching"]
     },
+    "reason-chess": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["game development"]
+    },
     "reason-cli-tools": {
       "category": "library",
       "flags": ["neglected"],
