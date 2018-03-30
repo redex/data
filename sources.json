@@ -519,6 +519,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
+    "bs-react-on-rails": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react"]
+    },
     "bs-react-pdf": {
       "category": "binding",
       "platforms": ["browser", "node"],
