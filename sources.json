@@ -966,6 +966,11 @@
       "category": "library",
       "platforms": ["browser", "node"],
       "keywords": ["async"]
+    },
+    "bs-reactstrap": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "reactstrap", "bootstrap", "ui]
     }
   },
 
@@ -1333,6 +1338,12 @@
       "platforms": ["browser", "node"],
       "keywords": ["react"],
       "comment": "Missing description, homepage url, issues url, installation instructions"
+    },
+    "ahrefs/bs-reactstrap": {
+      "repository": "github:ahrefs/bs-reactstrap",
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "reactstrap", "bootstrap", "ui]
     }
   },
 
