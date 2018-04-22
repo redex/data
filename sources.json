@@ -1333,7 +1333,13 @@
       "platforms": ["browser", "node"],
       "keywords": ["react"],
       "comment": "Missing description, homepage url, issues url, installation instructions"
-    }
+    },
+    "voodoos/bs-semantic-ui-react": {
+      "repository": "github:voodoos/bs-semantic-ui-react",
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+     }
   },
 
   "prematurely-published": {
