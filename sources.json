@@ -82,6 +82,11 @@
       "keywords": ["opengl", "graphics"],
       "comment": "Inadequate readme, missing license"
     },
+    "@justgage/reason-cookie": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["cookie", "dom", "state management"] 
+    },
     "@jsiebern/bs-material-ui": {
       "category": "binding",
       "platforms": ["browser"],
