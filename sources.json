@@ -876,6 +876,11 @@
       "keywords": ["development tools"],
       "comment": "Inadequate readme"
     },
+    "rebem-helper": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["bem", "css", "utilities", "helper"]
+    },
     "redataloader": {
       "category": "library",
       "flags": ["neglected"],
