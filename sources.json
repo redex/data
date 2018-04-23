@@ -878,8 +878,8 @@
     },
     "rebem-helper": {
       "category": "library",
-      "platforms": ["browser"],
-      "keywords": ["bem", "css", "utilities", "helper"]
+      "platforms": ["any"],
+      "keywords": ["css", "utilities"]
     },
     "redataloader": {
       "category": "library",
