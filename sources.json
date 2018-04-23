@@ -1284,14 +1284,6 @@
       "keywords": ["boilerplate"],
       "comment": "Inadequate readme, missing homepage url, issues url"
     },
-    "splish-me/bs-storybook": {
-      "repository": "github:splish-me/bs-storybook",
-      "category": "binding",
-      "flags": ["neglected"],
-      "platforms": ["browser", "node"],
-      "keywords": ["react", "development tools"],
-      "comment": "Inadequate readme, missing description, license, homepage url, issues url"
-    },
     "srsholmes/colors.re": {
       "repository": "github:srsholmes/colors.re",
       "category": "library",
