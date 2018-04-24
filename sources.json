@@ -82,15 +82,15 @@
       "keywords": ["opengl", "graphics"],
       "comment": "Inadequate readme, missing license"
     },
-    "@justgage/reason-cookie": {
-      "category": "binding",
-      "platforms": ["browser"],
-      "keywords": ["platform api"] 
-    },
     "@jsiebern/bs-material-ui": {
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui", "ppx"]
+    },
+    "@justgage/reason-cookie": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["platform api"] 
     },
     "@nebuta/bs-jquery": {
       "category": "binding",
