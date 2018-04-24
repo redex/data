@@ -616,6 +616,11 @@
       "platforms": ["browser"],
       "keywords": ["svg", "graphics"]
     },
+    "bs-typed-array": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["standard library"]
+    },
     "bs-validation": {
       "category": "library",
       "platforms": ["any"],
