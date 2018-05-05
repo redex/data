@@ -473,6 +473,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["data serialization"]
     },
+    "bs-promise-monad": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["async", "utilities"]
+    },
     "bs-promise-router": {
       "category": "binding",
       "flags": ["neglected"],
