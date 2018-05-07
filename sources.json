@@ -82,10 +82,20 @@
       "keywords": ["opengl", "graphics"],
       "comment": "Inadequate readme, missing license"
     },
+    "@jsiebern/bs-devextreme-reactive": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "@jsiebern/bs-material-ui": {
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui", "ppx"]
+    },
+    "@jsiebern/bs-react-sticky": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui", "utilities"]
     },
     "@justgage/reason-cookie": {
       "category": "binding",
