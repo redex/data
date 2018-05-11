@@ -621,6 +621,11 @@
       "platforms": ["browser"],
       "keywords": ["svg", "graphics"]
     },
+    "bs-tape": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["testing"]
+    },
     "bs-validation": {
       "category": "library",
       "platforms": ["any"],
