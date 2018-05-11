@@ -573,6 +573,11 @@
       "keywords": ["react", "ui"],
       "comment": "Inadequate readme"
     },
+    "bs-recharts": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "bs-reform": {
       "category": "library",
       "platforms": ["browser"],
