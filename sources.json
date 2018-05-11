@@ -1001,6 +1001,11 @@
       "category": "library",
       "platforms": ["browser", "node"],
       "keywords": ["async"]
+    },
+    "bs-recharts": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
     }
   },
 
@@ -1366,7 +1371,13 @@
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
-     }
+     },
+    "ahrefs/bs-recharts": {
+      "repository": "github:ahrefs/bs-recharts",
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    }
   },
 
   "prematurely-published": {
