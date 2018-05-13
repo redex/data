@@ -549,6 +549,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["react"]
     },
+    "bs-react-script-loader": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui", "utilities" ]
+    },
     "bs-react-test-renderer": {
       "category": "binding",
       "platforms": ["browser", "node"],
