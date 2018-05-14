@@ -505,6 +505,11 @@
       "platforms": ["node"],
       "keywords": ["platform api", "development tools"]
     },
+    "bs-readline": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["readline", "node readline", "read", "input", "output", "io", "i/o"]
+    },
     "bs-react-art": {
       "category": "binding",
       "flags": ["neglected"],
