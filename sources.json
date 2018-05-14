@@ -508,7 +508,7 @@
     "bs-readline": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["readline", "node readline", "read", "input", "output", "io", "i/o"]
+      "keywords": ["cli", "io"]
     },
     "bs-react-art": {
       "category": "binding",
