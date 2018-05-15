@@ -670,6 +670,11 @@
       "platforms": ["browser"],
       "keywords": ["utilities"]
     },
+    "bs-ws": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["real-time communication", "websocket"]
+    },
     "bstr": {
       "category": "tool",
       "platforms": ["node"],
