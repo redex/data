@@ -564,6 +564,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
+    "bs-readline": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["cli"]
+    },
     "bs-reason-apollo": {
       "category": "binding",
       "flags": ["neglected"],
