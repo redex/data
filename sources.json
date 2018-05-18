@@ -663,7 +663,7 @@
       "flags": ["neglected"],
       "platforms": ["browser"],
       "keywords": ["real-time communication"],
-      "comment": "Inadequate readme"
+      "comment": "Inadequate readme, archived"
     },
     "bs-webworkers": {
       "category": "binding",
@@ -672,7 +672,7 @@
     },
     "bs-ws": {
       "category": "binding",
-      "platforms": ["browser"],
+      "platforms": ["node"],
       "keywords": ["real-time communication"]
     },
     "bstr": {
