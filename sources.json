@@ -683,12 +683,17 @@
       "flags": ["neglected"],
       "platforms": ["browser"],
       "keywords": ["real-time communication"],
-      "comment": "Inadequate readme"
+      "comment": "Inadequate readme, archived"
     },
     "bs-webworkers": {
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["utilities"]
+    },
+    "bs-ws": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["real-time communication"]
     },
     "bstr": {
       "category": "tool",
