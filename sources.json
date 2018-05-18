@@ -50,6 +50,11 @@
       "platforms": ["browser"],
       "comment": "Missing readme, keywords"
     },
+    "@gladimdim/bs-semver": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["semver"]
+    },
     "@glennsl/bs-jest": {
       "category": "binding",
       "platforms": ["node"],
