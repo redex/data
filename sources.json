@@ -552,7 +552,7 @@
     "bs-react-script-loader": {
       "category": "library",
       "platforms": ["browser"],
-      "keywords": ["react", "ui", "utilities" ]
+      "keywords": ["react", "utilities" ]
     },
     "bs-react-test-renderer": {
       "category": "binding",
