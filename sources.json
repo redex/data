@@ -53,7 +53,7 @@
     "@gladimdim/bs-semver": {
       "category": "binding",
       "platforms": ["browser", "node"],
-      "keywords": ["semver"]
+      "keywords": ["utilities"]
     },
     "@glennsl/bs-jest": {
       "category": "binding",
