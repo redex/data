@@ -1366,6 +1366,12 @@
       "keywords": ["react"],
       "comment": "Missing description, homepage url, issues url, installation instructions"
     },
+    "voodoos/bs-jszip": {
+      "repository": "github:voodoos/bs-jszip",
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["utilities"]
+    },
     "voodoos/bs-semantic-ui-react": {
       "repository": "github:voodoos/bs-semantic-ui-react",
       "category": "binding",
