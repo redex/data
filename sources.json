@@ -505,11 +505,6 @@
       "platforms": ["node"],
       "keywords": ["platform api", "development tools"]
     },
-    "bs-readline": {
-      "category": "binding",
-      "platforms": ["node"],
-      "keywords": ["cli", "io"]
-    },
     "bs-react-art": {
       "category": "binding",
       "flags": ["neglected"],
@@ -563,6 +558,11 @@
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
+    },
+    "bs-readline": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["cli", "io"]
     },
     "bs-reason-apollo": {
       "category": "binding",
