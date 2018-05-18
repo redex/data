@@ -1371,6 +1371,12 @@
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
+     },
+    "voodoos/bs-jszip": {
+      "repository": "github:voodoos/bs-jszip",
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["utilities", "filesystem"]
      }
   },
 
