@@ -562,7 +562,7 @@
     "bs-readline": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["cli", "io"]
+      "keywords": ["cli"]
     },
     "bs-reason-apollo": {
       "category": "binding",
