@@ -672,8 +672,8 @@
     },
     "bs-ws": {
       "category": "binding",
-      "platforms": ["node"],
-      "keywords": ["real-time communication", "websocket"]
+      "platforms": ["browser"],
+      "keywords": ["real-time communication"]
     },
     "bstr": {
       "category": "tool",
