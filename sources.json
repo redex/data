@@ -10,6 +10,11 @@
       "platforms": ["node"],
       "keywords": ["development tools"]
     },
+    "@ahrefs/bs-recharts": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "@astrada/bs-react-fela": {
       "category": "binding",
       "platforms": ["browser"],
@@ -592,11 +597,6 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"],
       "comment": "Inadequate readme"
-    },
-    "bs-recharts": {
-      "category": "binding",
-      "platforms": ["browser"],
-      "keywords": ["react", "ui"]
     },
     "bs-reform": {
       "category": "library",
