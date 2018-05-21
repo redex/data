@@ -838,7 +838,7 @@
     "reason-future": {
       "category": "library",
       "platforms": ["browser", "node"],
-      "keywords": ["async", "standard library"]
+      "keywords": ["async"]
     },
     "reason-nact": {
       "category": "binding",
