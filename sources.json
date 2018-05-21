@@ -835,6 +835,11 @@
       "keywords": ["development tools"],
       "comment": "Inadequate readme"
     },
+    "reason-future": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["async"]
+    },
     "reason-nact": {
       "category": "binding",
       "platforms": ["node"],
