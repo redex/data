@@ -273,6 +273,11 @@
       "keywords": ["dom"],
       "comment": "Inadequate readme"
     },
+    "bs-dom-testing-library": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["testing", "dom"]
+    },
     "bs-downshift": {
       "category": "binding",
       "platforms": ["browser"],
