@@ -574,6 +574,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["react", "testing"]
     },
+    "bs-react-testing-library": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["testing", "react"]
+    },
     "bs-reactstrap": {
       "category": "binding",
       "platforms": ["browser"],
