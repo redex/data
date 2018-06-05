@@ -131,6 +131,11 @@
       "platforms": ["node"],
       "keywords": ["testing"]
     },
+    "@wokalski/vow": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["async"]
+    },
     "add-reason": {
       "category": "tool",
       "platforms": ["node"],
@@ -1041,11 +1046,6 @@
       "category": "tool",
       "platforms": ["node"],
       "keywords": ["development tools"]
-    },
-    "@wokalski/vow": {
-      "category": "library",
-      "platforms": ["browser", "node"],
-      "keywords": ["async"]
     }
   },
 
