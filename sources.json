@@ -110,7 +110,7 @@
     "@justgage/reason-cookie": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["platform api"] 
+      "keywords": ["platform api"]
     },
     "@nebuta/bs-jquery": {
       "category": "binding",
@@ -1036,6 +1036,11 @@
       "category": "library",
       "platforms": ["browser", "node"],
       "keywords": ["async"]
+    },
+    "bs-dom-testing-library": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["testing"]
     }
   },
 
@@ -1601,7 +1606,7 @@
       "comment": "Severe lack of information, missing repository url"
     }
   },
-  
+
   "prematurely-unpublished": {
     "Astrocoders/bs-package-boilerplate": {
       "repository": "github:Astrocoders/bs-package-boilerplate",
@@ -1628,7 +1633,7 @@
       "comment": "Inadequate readme, missing homepage url, issues url -- not on master branch, apparently we can't handle that (yet)"
     }
   },
-  
+
   "obsolete": [
     "AndrewKvalheim/bs-chalk",
     "bs-jest",
@@ -1642,7 +1647,7 @@
     "reason-rebase",
     "vramana/rebs"
   ],
-    
+
   "rejected": {
     "@jaredly/reasongl-interface": {
       "comment": "Unjustified fork"
