@@ -85,6 +85,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["development tools"]
     },
+    "@gmmorris/bs-rewire": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["testing"]
+    },
     "@jaredly/reasongl-android": {
       "category": "library",
       "flags": ["neglected"],
@@ -1036,11 +1041,6 @@
       "category": "library",
       "platforms": ["browser", "node"],
       "keywords": ["async"]
-    },
-    "@gmmorris/bs-rewire": {
-      "category": "binding",
-      "platforms": ["node"],
-      "keywords": ["testing"]
     }
   },
 
