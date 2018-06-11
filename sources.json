@@ -1422,6 +1422,12 @@
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
+     },
+     "@jongold/bs-delta-e": {
+      "repository": "github:jongold/bs-delta-e",
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphics", "color"]
      }
   },
 
