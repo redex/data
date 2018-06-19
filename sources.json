@@ -331,6 +331,11 @@
       "keywords": ["express", "web framework"],
       "comment": "Inadequate readme"
     },
+    "bs-faker": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["fake data", "testing"]
+    },
     "bs-fetch": {
       "category": "binding",
       "platforms": ["browser", "node"],
