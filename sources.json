@@ -334,7 +334,7 @@
     "bs-faker": {
       "category": "binding",
       "platforms": ["browser", "node"],
-      "keywords": ["fake data", "testing"]
+      "keywords": ["utilities", "testing"]
     },
     "bs-fetch": {
       "category": "binding",
