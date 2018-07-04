@@ -868,7 +868,7 @@
     "reason-maybe": {
       "category": "library",
       "platforms": ["any"],
-      "keywords": ["maybe", "monad"]
+      "keywords": ["maybe", "monad", "functional programming"]
     },
     "reason-nact": {
       "category": "binding",
