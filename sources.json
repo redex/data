@@ -494,7 +494,7 @@
     "bs-node-readline": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["development tools", "cli", "utilities"]
+      "keywords": ["cli", "utilities"]
     },
     "bs-nprogress": {
       "category": "binding",
