@@ -491,6 +491,11 @@
       "keywords": ["development tools"],
       "comment": "Inadequate readme, missing repository url"
     },
+    "bs-node-readline": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["cli", "utilities"]
+    },
     "bs-nprogress": {
       "category": "binding",
       "platforms": ["browser"],
