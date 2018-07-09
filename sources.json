@@ -865,6 +865,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["async"]
     },
+    "reason-maybe": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["utilities"]
+    },
     "reason-nact": {
       "category": "binding",
       "platforms": ["node"],
