@@ -55,6 +55,11 @@
       "platforms": ["browser"],
       "comment": "Missing readme, keywords"
     },
+    "@elliottcable/bs-cmdliner": {
+      "category": "library",
+      "platforms": ["browser", "node", "native"],
+      "keywords": ["utilities", "cli", "parsing"]
+    },
     "@gladimdim/bs-semver": {
       "category": "binding",
       "platforms": ["browser", "node"],
