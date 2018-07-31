@@ -730,6 +730,11 @@
       "platforms": ["node"],
       "keywords": ["real-time communication"]
     },
+    "bs-youtube": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["ui", "platform api"]
+    },
     "bstr": {
       "category": "tool",
       "platforms": ["node"],
