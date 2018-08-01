@@ -584,6 +584,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
+    "bs-react-native-paper": {
+      "category": "binding",
+      "platforms": ["react-native"],
+      "keywords": ["react-native", "ui"]
+    },    
     "bs-react-on-rails": {
       "category": "binding",
       "platforms": ["browser"],
