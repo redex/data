@@ -579,16 +579,16 @@
       "platforms": ["node"],
       "keywords": ["react", "ui"]
     },
+    "bs-react-native-paper": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["react", "react-native", "ui"]
+    },    
     "bs-react-notification-system": {
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
-    "bs-react-native-paper": {
-      "category": "binding",
-      "platforms": ["node"],
-      "keywords": ["react-native", "ui"]
-    },    
     "bs-react-on-rails": {
       "category": "binding",
       "platforms": ["browser"],
