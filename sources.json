@@ -586,7 +586,7 @@
     },
     "bs-react-native-paper": {
       "category": "binding",
-      "platforms": ["react-native"],
+      "platforms": ["node"],
       "keywords": ["react-native", "ui"]
     },    
     "bs-react-on-rails": {
