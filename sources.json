@@ -326,7 +326,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["react", "platform api"],
+      "keywords": ["react", "react-native", "platform api"],
       "comment": "Inadequate readme"
     },
     "bs-express": {
@@ -577,7 +577,7 @@
     "bs-react-native": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["react", "ui"]
+      "keywords": ["react", "react-native", "ui"]
     },
     "bs-react-notification-system": {
       "category": "binding",
@@ -1115,7 +1115,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["browser"],
-      "keywords": ["react", "ui"],
+      "keywords": ["react", "react-native", "ui"],
       "comment": "Inadequate readme, missing homepage url, issues url"
     },
     "aweary/reason-vue": {
