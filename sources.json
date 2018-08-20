@@ -648,6 +648,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "form validation"]
     },
+    "bs-remotedata": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["data fetching", "utilities"]
+    },
     "bs-restyled": {
       "category": "binding",
       "flags": ["unusable"],
