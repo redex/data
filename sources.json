@@ -1,5 +1,10 @@
 {
   "published": {
+    "reason-xstream": {
+      "category": "binding",
+      "platforms": ["node", "browser"],
+      "keywords": ["stream", "reactive"]
+    },
     "@ahrefs/bs-aws-lambda": {
       "category": "binding",
       "platforms": ["node"],
