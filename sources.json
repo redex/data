@@ -506,6 +506,11 @@
       "platforms": ["node"],
       "keywords": ["cli", "utilities"]
     },
+    "bs-nonempty": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["utilities", "collections"]
+    },
     "bs-nprogress": {
       "category": "binding",
       "platforms": ["browser"],
