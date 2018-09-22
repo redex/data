@@ -1162,6 +1162,12 @@
       "keywords": ["real-time communication"],
       "comment": "Inadequate readme, missing license, homepage url, issues url"
     },
+    "cnguy/bs-react-stripe-elements": {
+      "repository": "github:cnguy/bs-react-stripe-elements"
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "codinglawyer/reason-react-boilerplate": {
       "repository": "github:codinglawyer/reason-react-boilerplate",
       "category": "boilerplate",
