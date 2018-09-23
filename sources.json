@@ -55,6 +55,11 @@
       "platforms": ["browser"],
       "comment": "Missing readme, keywords"
     },
+    "@cnguy/bs-react-highlight": {
+      "category": "binding",
+      "platforms": "browser",
+      "keywords": ["react", "ui"]
+    },
     "@elliottcable/bs-cmdliner": {
       "category": "library",
       "platforms": ["browser", "node", "native"],
