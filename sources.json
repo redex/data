@@ -57,7 +57,7 @@
     },
     "@cnguy/bs-react-highlight": {
       "category": "binding",
-      "platforms": "browser",
+      "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
     "@elliottcable/bs-cmdliner": {
