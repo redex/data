@@ -932,6 +932,11 @@
       "keywords": ["standard library"],
       "comment": "Missing repository url"
     },
+    "reason-powerplug": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react", "render props", "utilities"]
+    },
     "reason-react": {
       "category": "binding",
       "platforms": ["browser", "node"],
