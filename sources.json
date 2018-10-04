@@ -1478,7 +1478,13 @@
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
-     }
+     },
+    "theatlasroom/bs-parse-color":{
+      "repository": "github:theatlasroom/bs-parse-color",
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["colors", "parse", "convert"]
+    }
   },
 
   "prematurely-published": {
