@@ -935,7 +935,7 @@
     "reason-powerplug": {
       "category": "library",
       "platforms": ["browser"],
-      "keywords": ["react", "render props", "utilities"]
+      "keywords": ["react", "utilities"]
     },
     "reason-react": {
       "category": "binding",
