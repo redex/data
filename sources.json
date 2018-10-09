@@ -2,7 +2,7 @@
   "published": {
     "@aantron/repromise": {
       "category": "binding",
-      "platforms": ["any"],
+      "platforms": ["browser", "node", "native"],
       "keywords": ["async"]
     },
     "@ahrefs/bs-aws-lambda": {
