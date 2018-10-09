@@ -1445,6 +1445,12 @@
       "keywords": ["boilerplate"],
       "comment": "Inadequate readme, missing description, homepage url, issues url"
     },
+    "theatlasroom/bs-parse-color":{
+      "repository": "github:theatlasroom/bs-parse-color",
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphics", "utilities"]
+    },
     "threepointone/bs-nice": {
       "repository": "github:threepointone/bs-nice",
       "category": "library",
