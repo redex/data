@@ -1,5 +1,10 @@
 {
   "published": {
+    "@aantron/repromise": {
+      "category": "binding",
+      "platforms": ["browser", "node", "native"],
+      "keywords": ["async"]
+    },
     "@ahrefs/bs-aws-lambda": {
       "category": "binding",
       "platforms": ["node"],
