@@ -135,7 +135,7 @@
     "@justgage/reason-cookie": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["platform api"] 
+      "keywords": ["platform api"]
     },
     "@nebuta/bs-jquery": {
       "category": "binding",
@@ -599,11 +599,16 @@
       "platforms": ["node"],
       "keywords": ["react", "react-native", "ui"]
     },
+    "bs-react-native-modal": {
+      "category": "binding",
+      "platform": ["node"],
+      "keywords": ["react", "react-native", "modal"]
+    },
     "bs-react-native-paper": {
       "category": "binding",
       "platforms": ["node"],
       "keywords": ["react", "react-native", "ui"]
-    },    
+    },
     "bs-react-notification-system": {
       "category": "binding",
       "platforms": ["browser"],
@@ -622,7 +627,7 @@
     "bs-react-script-loader": {
       "category": "library",
       "platforms": ["browser"],
-      "keywords": ["react", "utilities" ]
+      "keywords": ["react", "utilities"]
     },
     "bs-react-test-renderer": {
       "category": "binding",
@@ -704,7 +709,7 @@
     "bs-sql-common": {
       "category": "library",
       "platforms": ["node"],
-      "keywords": ["sql","database"]
+      "keywords": ["sql", "database"]
     },
     "bs-sql-composer": {
       "category": "library",
@@ -1450,7 +1455,7 @@
       "keywords": ["boilerplate"],
       "comment": "Inadequate readme, missing description, homepage url, issues url"
     },
-    "theatlasroom/bs-parse-color":{
+    "theatlasroom/bs-parse-color": {
       "repository": "github:theatlasroom/bs-parse-color",
       "category": "binding",
       "platforms": ["browser", "node"],
@@ -1489,7 +1494,7 @@
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
-     }
+    }
   },
 
   "prematurely-published": {
@@ -1683,7 +1688,7 @@
       "comment": "Severe lack of information, missing repository url"
     }
   },
-  
+
   "prematurely-unpublished": {
     "Astrocoders/bs-package-boilerplate": {
       "repository": "github:Astrocoders/bs-package-boilerplate",
@@ -1710,7 +1715,7 @@
       "comment": "Inadequate readme, missing homepage url, issues url -- not on master branch, apparently we can't handle that (yet)"
     }
   },
-  
+
   "obsolete": [
     "AndrewKvalheim/bs-chalk",
     "bs-jest",
@@ -1724,7 +1729,7 @@
     "reason-rebase",
     "vramana/rebs"
   ],
-    
+
   "rejected": {
     "@jaredly/reasongl-interface": {
       "comment": "Unjustified fork"
