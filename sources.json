@@ -602,7 +602,7 @@
     "bs-react-native-modal": {
       "category": "binding",
       "platform": ["node"],
-      "keywords": ["react", "react-native", "modal"]
+      "keywords": ["react", "react-native", "ui"]
     },
     "bs-react-native-paper": {
       "category": "binding",
