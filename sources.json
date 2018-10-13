@@ -289,6 +289,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["date/time manipulation"]
     },
+    "bs-decimal": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["decimal", "number", "math"]
+    },
     "bs-director": {
       "category": "binding",
       "flags": ["neglected"],
