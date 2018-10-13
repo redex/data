@@ -292,7 +292,7 @@
     "bs-decimal": {
       "category": "library",
       "platforms": ["any"],
-      "keywords": ["decimal", "number", "math"]
+      "keywords": ["math"]
     },
     "bs-director": {
       "category": "binding",
