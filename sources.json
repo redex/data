@@ -413,7 +413,7 @@
     "bs-guid": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["utilities", "data serialization"]
+      "keywords": ["utilities"]
     },
     "bs-humps": {
       "category": "binding",
