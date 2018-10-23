@@ -812,7 +812,7 @@
     "graphql-to-reason": {
       "category": "tool",
       "platforms": ["node"],
-      "keywords": ["graphql", "reason", "generator", "bucklescript", "reasonml"]
+      "keywords": ["graphql", "code generation", "development tools"]
     },
     "immutable-re": {
       "category": "library",
