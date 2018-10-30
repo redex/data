@@ -410,6 +410,11 @@
       "keywords": ["graphql"],
       "comment": "Missing repository url"
     },
+    "bs-guid": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["utilities"]
+    },
     "bs-humps": {
       "category": "binding",
       "platforms": ["browser", "node"],
