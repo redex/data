@@ -809,6 +809,11 @@
       "platforms": ["node"],
       "keywords": ["boilerplate"]
     },
+    "graphql-to-reason": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["graphql", "code generation", "development tools"]
+    },
     "immutable-re": {
       "category": "library",
       "platforms": ["any"],
