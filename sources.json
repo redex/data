@@ -215,6 +215,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
+    "bs-ant-design-mobile": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "bs-apollo-server-express": {
       "category": "binding",
       "flags": ["neglected"],
