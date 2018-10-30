@@ -957,6 +957,11 @@
       "keywords": ["standard library"],
       "comment": "Missing repository url"
     },
+    "reason-powerplug": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react", "utilities"]
+    },
     "reason-react": {
       "category": "binding",
       "platforms": ["browser", "node"],
