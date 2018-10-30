@@ -611,7 +611,7 @@
     },
     "bs-react-native-modal": {
       "category": "binding",
-      "platform": ["node"],
+      "platforms": ["node"],
       "keywords": ["react", "react-native", "ui"]
     },
     "bs-react-native-paper": {
