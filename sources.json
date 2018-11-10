@@ -590,7 +590,7 @@
     "bs-react-bootstrap": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["Bootstrap", "binding", "BuckleScript", "React", "ReactJS", "react-bootstrap", "ReasonML", "UI"]
+      "keywords": ["react", "ui"]
     },
     "bs-react-ga": {
       "category": "binding",
