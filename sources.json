@@ -385,6 +385,11 @@
       "keywords": ["utilities"],
       "comment": "Inadequate readme"
     },
+    "bs-fluture": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["async"]
+    },
     "bs-gcloud": {
       "category": "binding",
       "flags": ["neglected"],
