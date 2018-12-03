@@ -137,6 +137,11 @@
       "platforms": ["browser"],
       "keywords": ["platform api"]
     },
+    "@mobily/re-date": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["date/time manipulation"]
+    },
     "@nebuta/bs-jquery": {
       "category": "binding",
       "flags": ["neglected"],
