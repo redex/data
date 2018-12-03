@@ -258,6 +258,11 @@
       "keywords": ["cli"],
       "comment": "Inadequate readme"
     },
+    "bs-clearingnummer": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["utilities"]
+    },
     "bs-compression": {
       "category": "binding",
       "platforms": ["node"],
