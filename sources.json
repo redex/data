@@ -140,7 +140,7 @@
     "@mobily/re-date": {
       "category": "library",
       "platforms": ["browser", "node"],
-      "keywords": ["utilities", "date", "time"]
+      "keywords": ["date/time manipulation"]
     },
     "@nebuta/bs-jquery": {
       "category": "binding",
