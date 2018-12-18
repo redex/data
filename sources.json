@@ -142,6 +142,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["date/time manipulation"]
     },
+    "@moox/bs-react-helmet": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["react", "head", "react-helmet"]
+    },
     "@nebuta/bs-jquery": {
       "category": "binding",
       "flags": ["neglected"],
