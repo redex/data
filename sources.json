@@ -955,6 +955,11 @@
       "keywords": ["development tools"],
       "comment": "Inadequate readme"
     },
+    "reason-expo": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["Expo", "React", "Native", "react-native", "ios", "android"]
+    },
     "reason-future": {
       "category": "library",
       "platforms": ["browser", "node"],
