@@ -1161,6 +1161,11 @@
       "category": "tool",
       "platforms": ["node"],
       "keywords": ["development tools"]
+    },
+    "@piq9117/bs-mailgun": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["email"]
     }
   },
 
