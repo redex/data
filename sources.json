@@ -958,7 +958,7 @@
     "reason-expo": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["Expo", "React", "Native", "react-native", "ios", "android"]
+      "keywords": ["react", "react-native", "platform api"]
     },
     "reason-future": {
       "category": "library",
