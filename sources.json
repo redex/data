@@ -156,6 +156,11 @@
       "keywords": ["ssr", "platform api"],
       "comment": "Inadequate readme"
     },
+    "@piq9117/bs-mailgun": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["platform api"]
+    },
     "@stroiman/respect": {
       "category": "library",
       "platforms": ["node"],
