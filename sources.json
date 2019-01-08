@@ -958,7 +958,7 @@
     "reason-expo-vector-icons": {
       "category": "binding",
       "platforms": ["any"],
-      "keywords": ["react-native", "expo", "react"],
+      "keywords": ["react-native", "react"],
     },
     "reason-future": {
       "category": "library",
