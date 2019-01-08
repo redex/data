@@ -357,13 +357,6 @@
       "keywords": ["utilities"],
       "comment": "Inadequate readme"
     },
-    "bs-expo": {
-      "category": "binding",
-      "flags": ["neglected"],
-      "platforms": ["node"],
-      "keywords": ["react", "react-native", "platform api"],
-      "comment": "Inadequate readme"
-    },
     "bs-express": {
       "category": "binding",
       "flags": ["neglected"],
@@ -1807,7 +1800,14 @@
     "IwanKaramazow/transducers.re": {
       "comment": "Missing package.json"
     },
-
+    
+    "bs-expo": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["react", "react-native", "platform api"],
+      "comment": "Unmaintained, Inadequate readme"
+    },
     "bs-fizzbuzz": {
       "comment": "Toy project"
     },
