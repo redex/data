@@ -156,6 +156,11 @@
       "keywords": ["ssr", "platform api"],
       "comment": "Inadequate readme"
     },
+    "@piq9117/bs-mailgun": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["platform api"]
+    },
     "@stroiman/respect": {
       "category": "library",
       "platforms": ["node"],
@@ -355,13 +360,6 @@
       "flags": ["neglected"],
       "platforms": ["node"],
       "keywords": ["utilities"],
-      "comment": "Inadequate readme"
-    },
-    "bs-expo": {
-      "category": "binding",
-      "flags": ["neglected"],
-      "platforms": ["node"],
-      "keywords": ["react", "react-native", "platform api"],
       "comment": "Inadequate readme"
     },
     "bs-express": {
@@ -955,10 +953,15 @@
       "keywords": ["development tools"],
       "comment": "Inadequate readme"
     },
+    "reason-expo": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["react", "react-native", "platform api"]
+    },
     "reason-expo-vector-icons": {
       "category": "binding",
       "platforms": ["any"],
-      "keywords": ["react-native", "react"],
+      "keywords": ["react-native", "react"]
     },
     "reason-future": {
       "category": "library",
@@ -1807,7 +1810,14 @@
     "IwanKaramazow/transducers.re": {
       "comment": "Missing package.json"
     },
-
+    
+    "bs-expo": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["react", "react-native", "platform api"],
+      "comment": "Unmaintained, Inadequate readme"
+    },
     "bs-fizzbuzz": {
       "comment": "Toy project"
     },
