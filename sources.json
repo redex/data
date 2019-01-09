@@ -958,6 +958,11 @@
       "platforms": ["node"],
       "keywords": ["react", "react-native", "platform api"]
     },
+    "reason-expo-vector-icons": {
+      "category": "binding",
+      "platforms": ["any"],
+      "keywords": ["react-native", "react"]
+    },
     "reason-future": {
       "category": "library",
       "platforms": ["browser", "node"],
