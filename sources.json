@@ -1841,6 +1841,11 @@
     },
     "reason-react-ruby": {
       "comment": "Abandoned toy project"
+    },
+    "fastify-with-reason": {
+      "category": "binding",
+      "platforms": "node",
+      "keywords": ["server","node","fastify","web framework"]
     }
   }
 }
