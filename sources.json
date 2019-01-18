@@ -1098,6 +1098,11 @@
       "keywords": ["react", "state management"],
       "comment": "Missing repository url, installation instructions"
     },
+    "reductive-dev-tools": {
+      "category": "tool",
+      "platforms": ["browser"],
+      "keywords": ["development tools"]
+    },
     "refmterr": {
       "category": "tool",
       "platforms": ["native"],
