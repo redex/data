@@ -1169,6 +1169,11 @@
       "category": "tool",
       "platforms": ["node"],
       "keywords": ["development tools"]
+    },
+    "reductive-dev-tools": {
+      "category": "tool",
+      "platforms": ["browser"],
+      "keywords": ["development tools"]
     }
   },
 
