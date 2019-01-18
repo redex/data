@@ -1098,6 +1098,11 @@
       "keywords": ["react", "state management"],
       "comment": "Missing repository url, installation instructions"
     },
+    "reductive-dev-tools": {
+      "category": "tool",
+      "platforms": ["browser"],
+      "keywords": ["development tools"]
+    },
     "refmterr": {
       "category": "tool",
       "platforms": ["native"],
@@ -1168,11 +1173,6 @@
     "upgrade-reason-syntax": {
       "category": "tool",
       "platforms": ["node"],
-      "keywords": ["development tools"]
-    },
-    "reductive-dev-tools": {
-      "category": "tool",
-      "platforms": ["browser"],
       "keywords": ["development tools"]
     }
   },
