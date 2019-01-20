@@ -835,6 +835,11 @@
       "keywords": ["boilerplate"],
       "comment": "Inadequate readme"
     },
+    "fastify-with-reason": {
+      "category": "binding",
+      "platforms": "node",
+      "keywords": ["platform api"]
+    },
     "generator-reason-react-class": {
       "category": "tool",
       "platforms": ["node"],
