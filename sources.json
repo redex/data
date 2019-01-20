@@ -835,6 +835,11 @@
       "keywords": ["boilerplate"],
       "comment": "Inadequate readme"
     },
+    "fastify-with-reason": {
+      "category": "binding",
+      "platforms": "node",
+      "keywords": ["platform api"]
+    },
     "generator-reason-react-class": {
       "category": "tool",
       "platforms": ["node"],
@@ -1841,11 +1846,6 @@
     },
     "reason-react-ruby": {
       "comment": "Abandoned toy project"
-    },
-    "fastify-with-reason": {
-      "category": "binding",
-      "platforms": "node",
-      "keywords": ["server","node","fastify","web framework"]
     }
   }
 }
