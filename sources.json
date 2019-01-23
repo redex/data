@@ -837,7 +837,7 @@
     },
     "fastify-with-reason": {
       "category": "binding",
-      "platforms": "node",
+      "platforms": ["node"],
       "keywords": ["platform api"]
     },
     "generator-reason-react-class": {
