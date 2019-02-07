@@ -171,6 +171,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["async"]
     },
+    "@ristostevcev/bs-callbag-events": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["callbag", "dom", "event"]
+    },
     "add-reason": {
       "category": "tool",
       "platforms": ["node"],
