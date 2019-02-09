@@ -161,6 +161,11 @@
       "platforms": ["node"],
       "keywords": ["platform api"]
     },
+    "@ristostevcev/bs-callbag-element": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["callbag", "dom"]
+    },
     "@stroiman/respect": {
       "category": "library",
       "platforms": ["node"],
