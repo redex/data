@@ -161,6 +161,11 @@
       "platforms": ["node"],
       "keywords": ["platform api"]
     },
+    "@ristostevcev/bs-callbag-basics": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["callbag", "stream", "frp"]
+    },
     "@stroiman/respect": {
       "category": "library",
       "platforms": ["node"],
