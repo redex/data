@@ -1055,6 +1055,11 @@
       "keywords": ["utilities"],
       "comment": "Inadequate readme"
     },
+     "reason-transition-group": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react"]
+    },
     "reason-tttoe": {
       "category": "library",
       "platforms": ["any"],
