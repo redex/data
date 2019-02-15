@@ -803,6 +803,11 @@
       "platforms": ["node"],
       "keywords": ["real-time communication"]
     },
+    "bs-yarp": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["async", "promise"]
+    },
     "bs-youtube": {
       "category": "binding",
       "platforms": ["browser"],
