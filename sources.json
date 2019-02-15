@@ -798,6 +798,16 @@
       "platforms": ["browser"],
       "keywords": ["utilities"]
     },
+    "bs-winston": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["winston", "logging"]
+    },
+    "bs-winston-cloudwatch": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["winston", "cloudwatch", "transporter", "logging"]
+    },
     "bs-ws": {
       "category": "binding",
       "platforms": ["node"],
