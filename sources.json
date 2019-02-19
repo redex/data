@@ -517,6 +517,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["reactive programming"]
     },
+    "bs-msal": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["platform api"]
+    },
     "bs-mysql": {
       "category": "binding",
       "platforms": ["node"],
@@ -1830,7 +1835,7 @@
     "IwanKaramazow/transducers.re": {
       "comment": "Missing package.json"
     },
-    
+
     "bs-expo": {
       "category": "binding",
       "flags": ["neglected"],
