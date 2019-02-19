@@ -1025,6 +1025,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["react", "virtual dom", "state management"]
     },
+    "reason-react-document-title": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react"]
+    },
     "reason-react-native-scripts": {
       "category": "tool",
       "flags": ["neglected"],
