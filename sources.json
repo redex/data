@@ -98,7 +98,7 @@
     "@glennsl/rebug": {
       "category": "library",
       "platforms": ["browser", "node"],
-      "keywords": ["development tools"]
+      "keywords": ["development tools", "logging"]
     },
     "@gmmorris/bs-rewire": {
       "category": "binding",
@@ -541,7 +541,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["development tools"],
+      "keywords": ["development tools", "logging"],
       "comment": "Inadequate readme, missing repository url"
     },
     "bs-node-readline": {
