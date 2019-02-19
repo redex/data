@@ -801,12 +801,12 @@
     "bs-winston": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["winston", "logging"]
+      "keywords": ["logging"]
     },
     "bs-winston-cloudwatch": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["winston", "cloudwatch", "transporter", "logging"]
+      "keywords": ["logging"]
     },
     "bs-ws": {
       "category": "binding",
