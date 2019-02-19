@@ -1013,7 +1013,7 @@
     "reason-react-document-title": {
       "category": "library",
       "platforms": ["browser"],
-      "keywords": ["react", "title", "document.title"]
+      "keywords": ["react"]
     },
     "reason-react-native-scripts": {
       "category": "tool",
