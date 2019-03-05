@@ -774,6 +774,11 @@
       "platforms": ["node"],
       "keywords": ["testing"]
     },
+    "bs-tinycolor": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphics", "utilities"]
+    },
     "bs-validation": {
       "category": "library",
       "platforms": ["any"],
