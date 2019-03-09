@@ -529,7 +529,7 @@
     },
     "bs-music-theory": {
       "category": "library",
-      "platforms": ["browser" | "node" ],
+      "platforms": ["browser", "node" ],
       "keywords": [ "music" ]
     },
     "bs-mysql": {
