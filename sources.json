@@ -314,6 +314,11 @@
       "platforms": ["any"],
       "keywords": ["math"]
     },
+    "bs-clean-deep": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["utilities"]
+    },
     "bs-director": {
       "category": "binding",
       "flags": ["neglected"],
