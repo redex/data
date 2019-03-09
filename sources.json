@@ -527,7 +527,7 @@
       "platforms": ["browser"],
       "keywords": ["platform api"]
     },
-    "bs-music-theory: {
+    "bs-music-theory": {
       "category": "library",
       "platforms": ["browser" | "node" ],
       "keywords": [ "music" ]
