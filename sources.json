@@ -527,6 +527,11 @@
       "platforms": ["browser"],
       "keywords": ["platform api"]
     },
+    "bs-music-theory: {
+      "category": "library",
+      "platforms": ["browser" | "node" ],
+      "keywords": [ "music" ]
+    },
     "bs-mysql": {
       "category": "binding",
       "platforms": ["node"],
