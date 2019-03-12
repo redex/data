@@ -477,7 +477,7 @@
     "bs-marky-markdown": {
       "category": "binding",
       "platforms": ["browser", "node"],
-      "keywords": ["readme", "gfm", "github", "formatted", "markdown", "md", "documentation", "syntax highlighting", "html", "npm"]
+      "keywords": ["parsing", "string manipulation", "ui", "markdown"]
     },
     "bs-material-ui": {
       "category": "binding",
