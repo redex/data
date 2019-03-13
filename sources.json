@@ -474,6 +474,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["date/time manipulation"]
     },
+    "bs-marky-markdown": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["parsing", "ui"]
+    },
     "bs-material-ui": {
       "category": "binding",
       "platforms": ["browser"],
