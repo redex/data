@@ -448,6 +448,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["string manipulation", "utilities"]
     },
+    "bs-jest-dom": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["testing", "dom"]
+    },
     "bs-jsverify": {
       "category": "binding",
       "flags": ["neglected"],
