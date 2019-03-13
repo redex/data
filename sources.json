@@ -650,13 +650,6 @@
       "platforms": ["browser"],
       "keywords": ["react", "analytics"]
     },
-    "bs-react-helmet": {
-      "category": "binding",
-      "flags": ["neglected"],
-      "platforms": ["browser"],
-      "keywords": ["react"],
-      "comment": "Inadequate readme, missing repository url"
-    },
     "bs-react-intl": {
       "category": "binding",
       "platforms": ["browser"],
