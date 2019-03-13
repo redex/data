@@ -144,7 +144,7 @@
     },
     "@moox/bs-react-helmet": {
       "category": "binding",
-      "platforms": ["browser"],
+      "platforms": ["browser", "node"],
       "keywords": ["react"]
     },
     "@nebuta/bs-jquery": {
