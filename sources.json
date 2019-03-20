@@ -1555,6 +1555,12 @@
       "keywords": ["json", "data serialization"],
       "comment": "Missing installation instructions"
     },
+    "strdr4605/bs-mockingcase": {
+      "repository": "github:strdr4605/bs-mockingcase",
+      "category": "binding",
+      "platforms": ["node", "browser"],
+      "keywords": ["string manipulation", "logging"]
+    },
     "szymonzmyslony/reason-react-native-navigation": {
       "repository": "github:szymonzmyslony/reason-react-native-navigation",
       "category": "library",
