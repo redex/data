@@ -166,6 +166,61 @@
       "platforms": ["node"],
       "keywords": ["platform api"]
     },
+    "@ryb73/bs-body-parser": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["express"]
+    },
+    "@ryb73/bs-express-ws": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["express", "real-time communication"]
+    },
+    "@ryb73/bs-google-apis": {
+    "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["platform api"]
+    },
+    "@ryb73/bs-knex": {
+    "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["database", "sql"]
+    },
+    "@ryb73/bs-napster-api": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["platform api", "music"]
+    },
+    "@ryb73/bs-qs": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": []
+    },
+    "@ryb73/bs-react-virtualized": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
+    "@ryb73/bs-scrypt": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": []
+    },
+    "@ryb73/bs-superagent": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["http client"]
+    },
+    "@ryb73/bs-websockets": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["real-time communication"]
+    },
+    "@ryb73/decco": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["data serialization","json","parsing","ppx"]
+    },
     "@stroiman/respect": {
       "category": "library",
       "platforms": ["node"],
