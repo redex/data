@@ -1559,7 +1559,7 @@
       "repository": "github:strdr4605/bs-mockingcase",
       "category": "binding",
       "platforms": ["node", "browser"],
-      "keywords": ["string manipulation", "logging"]
+      "keywords": ["string manipulation"]
     },
     "szymonzmyslony/reason-react-native-navigation": {
       "repository": "github:szymonzmyslony/reason-react-native-navigation",
