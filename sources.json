@@ -182,7 +182,7 @@
       "keywords": ["platform api"]
     },
     "@ryb73/bs-knex": {
-    "category": "binding",
+      "category": "binding",
       "platforms": ["node"],
       "keywords": ["database", "sql"]
     },
