@@ -1227,6 +1227,11 @@
       "category": "tool",
       "platforms": ["node"],
       "keywords": ["development tools"]
+    },
+    "bs-randomcolor": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphics", "utilities", "colors"]
     }
   },
 
