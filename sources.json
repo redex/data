@@ -812,13 +812,6 @@
       "platforms": ["browser"],
       "keywords": ["dom"]
     },
-    "bs-websockets": {
-      "category": "binding",
-      "flags": ["neglected"],
-      "platforms": ["browser"],
-      "keywords": ["real-time communication"],
-      "comment": "Inadequate readme, archived"
-    },
     "bs-webworkers": {
       "category": "binding",
       "platforms": ["browser"],
