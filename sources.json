@@ -194,7 +194,7 @@
     "@ryb73/bs-qs": {
       "category": "binding",
       "platforms": ["browser", "node"],
-      "keywords": []
+      "keywords": ["parsing"]
     },
     "@ryb73/bs-react-virtualized": {
       "category": "binding",
@@ -204,7 +204,7 @@
     "@ryb73/bs-scrypt": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": []
+      "keywords": ["cryptography"]
     },
     "@ryb73/bs-superagent": {
       "category": "binding",
