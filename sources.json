@@ -181,11 +181,6 @@
       "platforms": ["browser", "node"],
       "keywords": ["platform api"]
     },
-    "@ryb73/bs-knex": {
-      "category": "binding",
-      "platforms": ["node"],
-      "keywords": ["database", "sql"]
-    },
     "@ryb73/bs-napster-api": {
       "category": "library",
       "platforms": ["browser", "node"],
