@@ -467,10 +467,8 @@
     },
     "bs-knex": {
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["sql"],
-      "comment": "Missing installation instructions"
+      "keywords": ["sql"]
     },
     "bs-little-parser": {
       "category": "library",
