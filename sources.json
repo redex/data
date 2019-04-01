@@ -166,6 +166,11 @@
       "platforms": ["node"],
       "keywords": ["platform api"]
     },
+    "@reasonql/core": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphql", "data fetching"]
+    },
     "@stroiman/respect": {
       "category": "library",
       "platforms": ["node"],
