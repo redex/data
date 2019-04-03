@@ -10,7 +10,7 @@
       "platforms": ["node"],
       "keywords": ["platform api"]
     },
-    "@ahrefs/bs-dotenv": {
+    "@ahrefs/bs-dotenv": {/
       "category": "binding",
       "platforms": ["node"],
       "keywords": ["development tools"]
@@ -633,6 +633,11 @@
       "platforms": ["node"],
       "keywords": ["platform api", "development tools"]
     },
+    "bs-randomcolor": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphics", "utilities"]
+    },
     "bs-react-art": {
       "category": "binding",
       "flags": ["neglected"],
@@ -1227,11 +1232,6 @@
       "category": "tool",
       "platforms": ["node"],
       "keywords": ["development tools"]
-    },
-    "bs-randomcolor": {
-      "category": "binding",
-      "platforms": ["browser", "node"],
-      "keywords": ["graphics", "utilities", "colors"]
     }
   },
 
