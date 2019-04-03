@@ -636,6 +636,11 @@
       "platforms": ["node"],
       "keywords": ["platform api", "development tools"]
     },
+    "bs-randomcolor": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphics", "utilities"]
+    },
     "bs-react-art": {
       "category": "binding",
       "flags": ["neglected"],
