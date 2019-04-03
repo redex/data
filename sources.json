@@ -10,7 +10,7 @@
       "platforms": ["node"],
       "keywords": ["platform api"]
     },
-    "@ahrefs/bs-dotenv": {/
+    "@ahrefs/bs-dotenv": {
       "category": "binding",
       "platforms": ["node"],
       "keywords": ["development tools"]
