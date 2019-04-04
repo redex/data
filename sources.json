@@ -170,6 +170,7 @@
       "category": "library",
       "platforms": ["browser", "node"],
       "keywords": ["graphql", "data fetching"]
+    },
     "@ryb73/bs-body-parser": {
       "category": "binding",
       "platforms": ["node"],
