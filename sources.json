@@ -166,6 +166,10 @@
       "platforms": ["node"],
       "keywords": ["platform api"]
     },
+    "@reasonql/core": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphql", "data fetching"]
     "@ryb73/bs-body-parser": {
       "category": "binding",
       "platforms": ["node"],
@@ -517,10 +521,8 @@
     },
     "bs-knex": {
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["sql"],
-      "comment": "Missing installation instructions"
+      "keywords": ["sql"]
     },
     "bs-little-parser": {
       "category": "library",
@@ -682,6 +684,11 @@
       "category": "binding",
       "platforms": ["node"],
       "keywords": ["platform api", "development tools"]
+    },
+    "bs-randomcolor": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphics", "utilities"]
     },
     "bs-react-art": {
       "category": "binding",
@@ -863,13 +870,6 @@
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["dom"]
-    },
-    "bs-websockets": {
-      "category": "binding",
-      "flags": ["neglected"],
-      "platforms": ["browser"],
-      "keywords": ["real-time communication"],
-      "comment": "Inadequate readme, archived"
     },
     "bs-webworkers": {
       "category": "binding",
@@ -1604,6 +1604,12 @@
       "platforms": ["browser", "node"],
       "keywords": ["json", "data serialization"],
       "comment": "Missing installation instructions"
+    },
+    "strdr4605/bs-mockingcase": {
+      "repository": "github:strdr4605/bs-mockingcase",
+      "category": "binding",
+      "platforms": ["node", "browser"],
+      "keywords": ["string manipulation"]
     },
     "szymonzmyslony/reason-react-native-navigation": {
       "repository": "github:szymonzmyslony/reason-react-native-navigation",
