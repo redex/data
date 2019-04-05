@@ -171,6 +171,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["async"]
     },
+    "@ristostevcev/bs-declaredom": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["html", "css", "dom"]
+    },
     "add-reason": {
       "category": "tool",
       "platforms": ["node"],
