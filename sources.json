@@ -161,6 +161,11 @@
       "platforms": ["node"],
       "keywords": ["platform api"]
     },
+    "@ristostevcev/bs-declaredom": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["css", "dom"]
+    },
     "@stroiman/respect": {
       "category": "library",
       "platforms": ["node"],
@@ -170,11 +175,6 @@
       "category": "library",
       "platforms": ["browser", "node"],
       "keywords": ["async"]
-    },
-    "@ristostevcev/bs-declaredom": {
-      "category": "binding",
-      "platforms": ["browser", "node"],
-      "keywords": ["css", "dom"]
     },
     "add-reason": {
       "category": "tool",
