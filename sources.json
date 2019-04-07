@@ -181,6 +181,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["callbag", "dom"]
     },
+    "@ristostevcev/bs-callbag-store": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["callbag", "state management"]
+    },
     "@ristostevcev/bs-declaredom": {
       "category": "binding",
       "platforms": ["browser", "node"],
