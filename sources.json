@@ -174,7 +174,7 @@
     "@ristostevcev/bs-declaredom": {
       "category": "binding",
       "platforms": ["browser", "node"],
-      "keywords": ["html", "css", "dom"]
+      "keywords": ["css", "dom"]
     },
     "add-reason": {
       "category": "tool",
