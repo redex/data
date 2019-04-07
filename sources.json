@@ -176,11 +176,16 @@
       "platforms": ["browser", "node"],
       "keywords": ["callbag", "reactive programming"]
     },
+    "@ristostevcev/bs-callbag-events": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["callbag", "dom"]
+    },
     "@ristostevcev/bs-declaredom": {
       "category": "binding",
       "platforms": ["browser", "node"],
       "keywords": ["css", "dom"]
-      },
+    },
     "@ryb73/bs-body-parser": {
       "category": "binding",
       "platforms": ["node"],
