@@ -164,7 +164,7 @@
     "@ristostevcev/bs-callbag-store": {
       "category": "library",
       "platforms": ["browser", "node"],
-      "keywords": ["callbag", "redux", "store"]
+      "keywords": ["callbag", "state management"]
     },
     "@stroiman/respect": {
       "category": "library",
