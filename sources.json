@@ -728,6 +728,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
+    "bs-react-dropdown": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui", "dropdown"]
+    },
     "bs-react-ga": {
       "category": "binding",
       "platforms": ["browser"],
