@@ -1058,6 +1058,11 @@
       "platforms": ["node"],
       "keywords": ["react", "graphql", "data fetching"]
     },
+    "reason-biz-charts": {
+      "category": "binding",
+      "platforms": "browser",
+      "keywords": ["react", "ui", "visualization"]
+    },
     "reason-chess": {
       "category": "library",
       "platforms": ["any"],
