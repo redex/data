@@ -1593,7 +1593,7 @@
       "repository": "github:reazen/relude",
       "category": "library",
       "platforms": ["browser", "node"],
-      "keywords": ["utilities"]
+      "keywords": ["utilities", "standard library", "collections"]
     },
     "SentiaAnalytics/bs-react-motion": {
       "repository": "github:SentiaAnalytics/bs-react-motion",
