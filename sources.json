@@ -1280,6 +1280,11 @@
       "platforms": ["browser"],
       "keywords": ["graphql", "data fetching"]
     },
+    "relude": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["utilities", "standard library", "collections"]
+    },
     "rex-json": {
       "category": "library",
       "platforms": ["any"],
@@ -1588,12 +1593,6 @@
       "platforms": ["browser", "node"],
       "keywords": ["data serialization"],
       "comment": "Inadequate readme, missing license, issues url"
-    },
-    "reazen/relude": {
-      "repository": "github:reazen/relude",
-      "category": "library",
-      "platforms": ["browser", "node"],
-      "keywords": ["utilities", "standard library", "collections"]
     },
     "SentiaAnalytics/bs-react-motion": {
       "repository": "github:SentiaAnalytics/bs-react-motion",
