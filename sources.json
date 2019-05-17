@@ -1,5 +1,10 @@
 {
   "published": {
+    "@aantron/repromise": {
+      "category": "binding",
+      "platforms": ["browser", "node", "native"],
+      "keywords": ["async"]
+    },
     "@ahrefs/bs-aws-lambda": {
       "category": "binding",
       "platforms": ["node"],
@@ -93,7 +98,7 @@
     "@glennsl/rebug": {
       "category": "library",
       "platforms": ["browser", "node"],
-      "keywords": ["development tools"]
+      "keywords": ["development tools", "logging"]
     },
     "@gmmorris/bs-rewire": {
       "category": "binding",
@@ -130,7 +135,17 @@
     "@justgage/reason-cookie": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["platform api"] 
+      "keywords": ["platform api"]
+    },
+    "@mobily/re-date": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["date/time manipulation"]
+    },
+    "@moox/bs-react-helmet": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["react"]
     },
     "@nebuta/bs-jquery": {
       "category": "binding",
@@ -145,6 +160,91 @@
       "platforms": ["node"],
       "keywords": ["ssr", "platform api"],
       "comment": "Inadequate readme"
+    },
+    "@piq9117/bs-mailgun": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["platform api"]
+    },
+    "@reasonql/core": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphql", "data fetching"]
+    },
+    "@ristostevcev/bs-callbag-basics": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["callbag", "reactive programming"]
+    },
+    "@ristostevcev/bs-callbag-element": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["callbag", "dom"]
+    },
+    "@ristostevcev/bs-callbag-events": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["callbag", "dom"]
+    },
+    "@ristostevcev/bs-callbag-store": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["callbag", "state management"]
+    },
+    "@ristostevcev/bs-declaredom": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["css", "dom"]
+    },
+    "@ryb73/bs-body-parser": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["express"]
+    },
+    "@ryb73/bs-express-ws": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["express", "real-time communication"]
+    },
+    "@ryb73/bs-google-apis": {
+    "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["platform api"]
+    },
+    "@ryb73/bs-napster-api": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["platform api", "music"]
+    },
+    "@ryb73/bs-qs": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["parsing"]
+    },
+    "@ryb73/bs-react-virtualized": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
+    "@ryb73/bs-scrypt": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["cryptography"]
+    },
+    "@ryb73/bs-superagent": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["http client"]
+    },
+    "@ryb73/bs-websockets": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["real-time communication"]
+    },
+    "@ryb73/decco": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["data serialization","json","parsing","ppx"]
     },
     "@stroiman/respect": {
       "category": "library",
@@ -210,6 +310,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
+    "bs-ant-design-mobile": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "bs-apollo-server-express": {
       "category": "binding",
       "flags": ["neglected"],
@@ -248,6 +353,11 @@
       "keywords": ["cli"],
       "comment": "Inadequate readme"
     },
+    "bs-clearingnummer": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["utilities"]
+    },
     "bs-compression": {
       "category": "binding",
       "platforms": ["node"],
@@ -283,6 +393,16 @@
       "category": "binding",
       "platforms": ["browser", "node"],
       "keywords": ["date/time manipulation"]
+    },
+    "bs-decimal": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["math"]
+    },
+    "bs-clean-deep": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["utilities"]
     },
     "bs-director": {
       "category": "binding",
@@ -332,13 +452,6 @@
       "keywords": ["utilities"],
       "comment": "Inadequate readme"
     },
-    "bs-expo": {
-      "category": "binding",
-      "flags": ["neglected"],
-      "platforms": ["node"],
-      "keywords": ["react", "react-native", "platform api"],
-      "comment": "Inadequate readme"
-    },
     "bs-express": {
       "category": "binding",
       "flags": ["neglected"],
@@ -369,6 +482,11 @@
       "platforms": ["any"],
       "keywords": ["utilities"],
       "comment": "Inadequate readme"
+    },
+    "bs-fluture": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["async"]
     },
     "bs-gcloud": {
       "category": "binding",
@@ -405,10 +523,20 @@
       "keywords": ["graphql"],
       "comment": "Missing repository url"
     },
+    "bs-guid": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["utilities"]
+    },
     "bs-humps": {
       "category": "binding",
       "platforms": ["browser", "node"],
       "keywords": ["string manipulation", "utilities"]
+    },
+    "bs-jest-dom": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["testing", "dom"]
     },
     "bs-jsverify": {
       "category": "binding",
@@ -419,10 +547,8 @@
     },
     "bs-knex": {
       "category": "binding",
-      "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["sql"],
-      "comment": "Missing installation instructions"
+      "keywords": ["sql"]
     },
     "bs-little-parser": {
       "category": "library",
@@ -435,6 +561,11 @@
       "category": "binding",
       "platforms": ["browser", "node"],
       "keywords": ["date/time manipulation"]
+    },
+    "bs-marky-markdown": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["parsing", "ui"]
     },
     "bs-material-ui": {
       "category": "binding",
@@ -484,6 +615,16 @@
       "platforms": ["browser", "node"],
       "keywords": ["reactive programming"]
     },
+    "bs-msal": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["platform api"]
+    },
+    "bs-music-theory": {
+      "category": "library",
+      "platforms": ["browser", "node" ],
+      "keywords": [ "music" ]
+    },
     "bs-mysql": {
       "category": "binding",
       "platforms": ["node"],
@@ -503,7 +644,7 @@
       "category": "binding",
       "flags": ["neglected"],
       "platforms": ["node"],
-      "keywords": ["development tools"],
+      "keywords": ["development tools", "logging"],
       "comment": "Inadequate readme, missing repository url"
     },
     "bs-node-readline": {
@@ -543,6 +684,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["testing"]
     },
+    "bs-priority-queue": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["collections"]
+    },
     "bs-promise-monad": {
       "category": "library",
       "platforms": ["browser", "node"],
@@ -565,6 +711,11 @@
       "platforms": ["node"],
       "keywords": ["platform api", "development tools"]
     },
+    "bs-randomcolor": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphics", "utilities"]
+    },
     "bs-react-art": {
       "category": "binding",
       "flags": ["neglected"],
@@ -572,17 +723,20 @@
       "keywords": ["react", "graphics"],
       "comment": "Inadequate readme, missing repository url"
     },
+    "bs-react-bootstrap": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
+    "bs-react-dropdown": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "bs-react-ga": {
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "analytics"]
-    },
-    "bs-react-helmet": {
-      "category": "binding",
-      "flags": ["neglected"],
-      "platforms": ["browser"],
-      "keywords": ["react"],
-      "comment": "Inadequate readme, missing repository url"
     },
     "bs-react-intl": {
       "category": "binding",
@@ -594,11 +748,16 @@
       "platforms": ["node"],
       "keywords": ["react", "react-native", "ui"]
     },
+    "bs-react-native-modal": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["react", "react-native", "ui"]
+    },
     "bs-react-native-paper": {
       "category": "binding",
       "platforms": ["node"],
       "keywords": ["react", "react-native", "ui"]
-    },    
+    },
     "bs-react-notification-system": {
       "category": "binding",
       "platforms": ["browser"],
@@ -617,7 +776,7 @@
     "bs-react-script-loader": {
       "category": "library",
       "platforms": ["browser"],
-      "keywords": ["react", "utilities" ]
+      "keywords": ["react", "utilities"]
     },
     "bs-react-test-renderer": {
       "category": "binding",
@@ -699,7 +858,7 @@
     "bs-sql-common": {
       "category": "library",
       "platforms": ["node"],
-      "keywords": ["sql","database"]
+      "keywords": ["sql", "database"]
     },
     "bs-sql-composer": {
       "category": "library",
@@ -721,6 +880,11 @@
       "platforms": ["node"],
       "keywords": ["testing"]
     },
+    "bs-tinycolor": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphics", "utilities"]
+    },
     "bs-validation": {
       "category": "library",
       "platforms": ["any"],
@@ -738,17 +902,20 @@
       "platforms": ["browser"],
       "keywords": ["dom"]
     },
-    "bs-websockets": {
-      "category": "binding",
-      "flags": ["neglected"],
-      "platforms": ["browser"],
-      "keywords": ["real-time communication"],
-      "comment": "Inadequate readme, archived"
-    },
     "bs-webworkers": {
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["utilities"]
+    },
+    "bs-winston": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["logging"]
+    },
+    "bs-winston-cloudwatch": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["logging"]
     },
     "bs-ws": {
       "category": "binding",
@@ -787,6 +954,11 @@
       "keywords": ["boilerplate"],
       "comment": "Inadequate readme"
     },
+    "fastify-with-reason": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["platform api"]
+    },
     "generator-reason-react-class": {
       "category": "tool",
       "platforms": ["node"],
@@ -803,6 +975,11 @@
       "category": "tool",
       "platforms": ["node"],
       "keywords": ["boilerplate"]
+    },
+    "graphql-to-reason": {
+      "category": "tool",
+      "platforms": ["node"],
+      "keywords": ["graphql", "code generation", "development tools"]
     },
     "immutable-re": {
       "category": "library",
@@ -881,6 +1058,11 @@
       "platforms": ["node"],
       "keywords": ["react", "graphql", "data fetching"]
     },
+    "reason-biz-charts": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui", "visualization"]
+    },
     "reason-chess": {
       "category": "library",
       "platforms": ["any"],
@@ -899,6 +1081,16 @@
       "platforms": ["browser"],
       "keywords": ["development tools"],
       "comment": "Inadequate readme"
+    },
+    "reason-expo": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["react", "react-native", "platform api"]
+    },
+    "reason-expo-vector-icons": {
+      "category": "binding",
+      "platforms": ["any"],
+      "keywords": ["react-native", "react"]
     },
     "reason-future": {
       "category": "library",
@@ -941,6 +1133,11 @@
       "category": "binding",
       "platforms": ["browser", "node"],
       "keywords": ["react", "virtual dom", "state management"]
+    },
+    "reason-react-document-title": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react"]
     },
     "reason-react-native-scripts": {
       "category": "tool",
@@ -986,6 +1183,11 @@
       "platforms": ["any"],
       "keywords": ["utilities"],
       "comment": "Inadequate readme"
+    },
+     "reason-transition-group": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react"]
     },
     "reason-tttoe": {
       "category": "library",
@@ -1035,6 +1237,11 @@
       "keywords": ["react", "state management"],
       "comment": "Missing repository url, installation instructions"
     },
+    "reductive-dev-tools": {
+      "category": "tool",
+      "platforms": ["browser"],
+      "keywords": ["development tools"]
+    },
     "refmterr": {
       "category": "tool",
       "platforms": ["native"],
@@ -1072,6 +1279,11 @@
       "category": "library",
       "platforms": ["browser"],
       "keywords": ["graphql", "data fetching"]
+    },
+    "relude": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["utilities", "standard library", "collections"]
     },
     "rex-json": {
       "category": "library",
@@ -1434,6 +1646,12 @@
       "keywords": ["json", "data serialization"],
       "comment": "Missing installation instructions"
     },
+    "strdr4605/bs-mockingcase": {
+      "repository": "github:strdr4605/bs-mockingcase",
+      "category": "binding",
+      "platforms": ["node", "browser"],
+      "keywords": ["string manipulation"]
+    },
     "szymonzmyslony/reason-react-native-navigation": {
       "repository": "github:szymonzmyslony/reason-react-native-navigation",
       "category": "library",
@@ -1449,6 +1667,12 @@
       "platforms": ["browser"],
       "keywords": ["boilerplate"],
       "comment": "Inadequate readme, missing description, homepage url, issues url"
+    },
+    "theatlasroom/bs-parse-color": {
+      "repository": "github:theatlasroom/bs-parse-color",
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["graphics", "utilities"]
     },
     "threepointone/bs-nice": {
       "repository": "github:threepointone/bs-nice",
@@ -1483,7 +1707,7 @@
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
-     }
+    }
   },
 
   "prematurely-published": {
@@ -1677,7 +1901,7 @@
       "comment": "Severe lack of information, missing repository url"
     }
   },
-  
+
   "prematurely-unpublished": {
     "Astrocoders/bs-package-boilerplate": {
       "repository": "github:Astrocoders/bs-package-boilerplate",
@@ -1704,7 +1928,7 @@
       "comment": "Inadequate readme, missing homepage url, issues url -- not on master branch, apparently we can't handle that (yet)"
     }
   },
-  
+
   "obsolete": [
     "AndrewKvalheim/bs-chalk",
     "bs-jest",
@@ -1718,7 +1942,7 @@
     "reason-rebase",
     "vramana/rebs"
   ],
-    
+
   "rejected": {
     "@jaredly/reasongl-interface": {
       "comment": "Unjustified fork"
@@ -1742,6 +1966,13 @@
       "comment": "Missing package.json"
     },
 
+    "bs-expo": {
+      "category": "binding",
+      "flags": ["neglected"],
+      "platforms": ["node"],
+      "keywords": ["react", "react-native", "platform api"],
+      "comment": "Unmaintained, Inadequate readme"
+    },
     "bs-fizzbuzz": {
       "comment": "Toy project"
     },
