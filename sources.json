@@ -1099,9 +1099,8 @@
     },
     "reason-hooks-testing-library": {
       "category":"binding",
-      "repository": "github:beizhedenglong/reason-hooks-testing-library",
       "platforms": ["node", "browser"],
-      "keywords": ["testing", "hooks"]
+      "keywords": ["testing", "react"]
     },
     "reason-maybe": {
       "category": "library",
