@@ -1097,6 +1097,12 @@
       "platforms": ["browser", "node"],
       "keywords": ["async"]
     },
+    "reason-hooks-testing-library": {
+      "category":"binding",
+      "repository": "github:beizhedenglong/reason-hooks-testing-library",
+      "platforms": ["node", "browser"],
+      "keywords": ["testing", "hooks"]
+    },
     "reason-maybe": {
       "category": "library",
       "platforms": ["any"],
