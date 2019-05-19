@@ -1097,6 +1097,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["async"]
     },
+    "reason-hooks-testing-library": {
+      "category":"binding",
+      "platforms": ["node", "browser"],
+      "keywords": ["testing", "react"]
+    },
     "reason-maybe": {
       "category": "library",
       "platforms": ["any"],
