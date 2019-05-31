@@ -971,6 +971,11 @@
       "keywords": ["code generation"],
       "comment": "Inadequate/misleading readme"
     },
+    "geo-reason": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["maps"]
+    },
     "gimme-reason": {
       "category": "tool",
       "platforms": ["node"],
