@@ -341,6 +341,11 @@
       "keywords": ["standard library", "collections", "utilities"],
       "comment": "Inadequate readme"
     },
+    "bs-big.js": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["math", "utilities"]
+    },
     "bs-bn.js": {
       "category": "binding",
       "platforms": ["browser", "node"],
