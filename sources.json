@@ -137,6 +137,11 @@
       "platforms": ["browser"],
       "keywords": ["platform api"]
     },
+    "@leeor/bs-argon2": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["cryptography"]
+    },
     "@mobily/re-date": {
       "category": "library",
       "platforms": ["browser", "node"],
