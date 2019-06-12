@@ -414,6 +414,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["utilities"]
     },
+    "bs-decode": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["json", "data serialization"]
+    },
     "bs-director": {
       "category": "binding",
       "flags": ["neglected"],
