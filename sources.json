@@ -1164,6 +1164,16 @@
       "platforms": ["browser"],
       "keywords": ["react"]
     },
+    "reason-react-native": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["react", "react-native", "ui"]
+    },
+    "reason-react-native-maps": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["react-native", "react-native-maps", "maps"]
+    },
     "reason-react-native-scripts": {
       "category": "tool",
       "flags": ["neglected"],
