@@ -758,11 +758,6 @@
       "platforms": ["browser"],
       "keywords": ["react", "i18n"]
     },
-    "bs-react-native": {
-      "category": "binding",
-      "platforms": ["node"],
-      "keywords": ["react", "react-native", "ui"]
-    },
     "bs-react-native-modal": {
       "category": "binding",
       "platforms": ["node"],
