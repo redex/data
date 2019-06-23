@@ -1172,7 +1172,7 @@
     "reason-react-native-maps": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["react-native", "react-native-maps", "maps"]
+      "keywords": ["react-native", "maps"]
     },
     "reason-react-native-scripts": {
       "category": "tool",
