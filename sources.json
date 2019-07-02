@@ -212,7 +212,7 @@
       "keywords": ["express", "real-time communication"]
     },
     "@ryb73/bs-google-apis": {
-      "category": "library",
+    "category": "library",
       "platforms": ["browser", "node"],
       "keywords": ["platform api"]
     },
@@ -249,7 +249,7 @@
     "@ryb73/decco": {
       "category": "library",
       "platforms": ["browser", "node"],
-      "keywords": ["data serialization", "json", "parsing", "ppx"]
+      "keywords": ["data serialization","json","parsing","ppx"]
     },
     "@stroiman/respect": {
       "category": "library",
@@ -637,8 +637,8 @@
     },
     "bs-music-theory": {
       "category": "library",
-      "platforms": ["browser", "node"],
-      "keywords": ["music"]
+      "platforms": ["browser", "node" ],
+      "keywords": [ "music" ]
     },
     "bs-mysql": {
       "category": "binding",
@@ -1118,7 +1118,7 @@
       "keywords": ["async"]
     },
     "reason-hooks-testing-library": {
-      "category": "binding",
+      "category":"binding",
       "platforms": ["node", "browser"],
       "keywords": ["testing", "react"]
     },
@@ -1219,7 +1219,7 @@
       "keywords": ["utilities"],
       "comment": "Inadequate readme"
     },
-    "reason-transition-group": {
+     "reason-transition-group": {
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react"]
