@@ -548,6 +548,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["string manipulation", "utilities"]
     },
+    "bs-jest-date-mock": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["testing", "date/time manipulation"]
+    },
     "bs-jest-dom": {
       "category": "binding",
       "platforms": ["node"],
