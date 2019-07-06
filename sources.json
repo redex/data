@@ -419,12 +419,15 @@
       "platforms": ["browser", "node"],
       "keywords": ["json", "data serialization"]
     },
-    "bs-director": {
+    "bs-decode": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["json", "data serialization"]
+    },
+    "bs-diffie-hellman": {
       "category": "binding",
-      "flags": ["neglected"],
-      "platforms": ["browser"],
-      "keywords": ["routing"],
-      "comment": "Missing repository url"
+      "platforms": ["node"],
+      "keywords": ["crypto"],
     },
     "bs-dom": {
       "category": "binding",
