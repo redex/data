@@ -117,6 +117,11 @@
       "platforms": ["any"],
       "keywords": ["reactive programming"]
     },
+    "@johnridesabike/bs-numeral": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["numeral", "numeral.js"]
+    },
     "@jsiebern/bs-devextreme-reactive": {
       "category": "binding",
       "platforms": ["browser"],
