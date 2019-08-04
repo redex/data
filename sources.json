@@ -1554,6 +1554,12 @@
       "keywords": ["boilerplate"],
       "comment": "Inadequate readme, missing description, homepage url, issues url"
     },
+    "MargaretKrutikova/reason-react-elmish": {
+      "repository": "github:MargaretKrutikova/reason-react-elmish",
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react", "state management"]
+    },
     "PaulPopat/reason-react-electron-boilerplate": {
       "repository": "github:PaulPopat/reason-react-electron-boilerplate",
       "category": "boilerplate",
