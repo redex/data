@@ -429,6 +429,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["json", "data serialization"]
     },
+    "bs-diffie-hellman": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["cryptography"],
+    },
     "bs-director": {
       "category": "binding",
       "flags": ["neglected"],
