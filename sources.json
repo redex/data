@@ -120,7 +120,7 @@
     "@johnridesabike/bs-numeral": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["numeral", "numeral.js"]
+      "keywords": ["utilities"]
     },
     "@jsiebern/bs-devextreme-reactive": {
       "category": "binding",
