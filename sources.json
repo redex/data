@@ -378,6 +378,11 @@
       "platforms": ["node"],
       "keywords": ["utilities"]
     },
+    "bs-cron": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["utilities"]
+    },
     "bs-css": {
       "category": "binding",
       "platforms": ["browser"],
