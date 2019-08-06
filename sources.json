@@ -942,6 +942,11 @@
       "platforms": ["node"],
       "keywords": ["boilerplate"]
     },
+    "bs-react-waypoint": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "bucklescript-phx": {
       "category": "binding",
       "platforms": ["browser"],
