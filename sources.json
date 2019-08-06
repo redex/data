@@ -798,6 +798,11 @@
       "platforms": ["node"],
       "keywords": ["testing", "react"]
     },
+    "bs-react-trello": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react"]
+    },
     "bs-reactstrap": {
       "category": "binding",
       "platforms": ["browser"],
