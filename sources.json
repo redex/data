@@ -1345,6 +1345,26 @@
       "platforms": ["browser", "node"],
       "keywords": ["utilities", "standard library", "collections"]
     },
+    "relude-eon": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["date/time manipulation"]
+    },
+    "relude-fetch": {
+      "category": "library",
+      "platofrms": ["browser", "node"],
+      "keywords": ["data fetching"]
+    },
+    "relude-parse": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["parsing"]
+    },
+    "relude-reason-react": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react", "state management", "ui"]
+    },
     "rex-json": {
       "category": "library",
       "platforms": ["any"],
