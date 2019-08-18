@@ -1352,7 +1352,7 @@
     },
     "relude-fetch": {
       "category": "library",
-      "platofrms": ["browser", "node"],
+      "platforms": ["browser", "node"],
       "keywords": ["data fetching"]
     },
     "relude-parse": {
