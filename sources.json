@@ -1889,6 +1889,12 @@
       "keywords": [],
       "comment": "Severe lack of information, missing repository url"
     },
+    "reason-date-fns": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["date/time manipulation"],
+      "comment": "Date-fns v2 bindings. Using native FP submodule"
+    },
     "reason-fs": {
       "category": "unknown",
       "flags": ["unusable"],
