@@ -911,7 +911,7 @@
       "keywords": ["svg", "graphics"]
     },
     "bs-react-swipeable-views": {
-      "category": "binding"",
+      "category": "binding",
       "platforms": ["browser"],
       "keywords": ["ui", "react"]
     },
