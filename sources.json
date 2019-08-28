@@ -910,6 +910,11 @@
       "platforms": ["browser"],
       "keywords": ["svg", "graphics"]
     },
+    "bs-react-swipeable-views": {
+      "category": "binding"",
+      "platforms": ["browser"],
+      "keywords": ["ui", "react"]
+    },
     "bs-tape": {
       "category": "binding",
       "platforms": ["node"],
