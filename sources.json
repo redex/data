@@ -105,6 +105,11 @@
       "platforms": ["node"],
       "keywords": ["testing"]
     },
+    "@idkjs/reason-expo-vector-icons": {
+      "category": "binding",
+      "platforms": ["any"],
+      "keywords": ["react-native", "react"]
+    },
     "@jaredly/reasongl-android": {
       "category": "library",
       "flags": ["neglected"],
