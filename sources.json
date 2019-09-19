@@ -1053,6 +1053,11 @@
       "platforms": ["any"],
       "keywords": ["utilities"]
     },
+    "re-discord": {
+      "category": "library",
+      "platforms": ["native"],
+      "keywords": ["discord"]
+    },
     "re-classnames": {
       "category": "library",
       "platforms": ["any"],
