@@ -256,6 +256,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["data serialization","json","parsing","ppx"]
     },
+    "@sdv-studio/bs-rsuite-ui-react": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "@stroiman/respect": {
       "category": "library",
       "platforms": ["node"],
