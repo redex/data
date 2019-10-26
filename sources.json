@@ -1130,6 +1130,12 @@
       "keywords": ["cli", "filesystem"],
       "comment": "Inadequate readme, missing description, repository url"
     },
+    "reason-date-fns": {
+      "category": "binding",
+      "platforms": ["browser", "node"],
+      "keywords": ["date/time manipulation"],
+      "comment": "Date-fns v2 bindings. Using FP submodule"
+    },
     "reason-elm": {
       "category": "library",
       "flags": ["neglected"],
