@@ -176,6 +176,11 @@
       "platforms": ["node"],
       "keywords": ["platform api"]
     },
+    "@reason-react-native/netinfo": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["react-native"]
+    },
     "@reasonql/core": {
       "category": "library",
       "platforms": ["browser", "node"],
