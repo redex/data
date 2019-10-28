@@ -1133,8 +1133,7 @@
     "reason-date-fns": {
       "category": "binding",
       "platforms": ["browser", "node"],
-      "keywords": ["date/time manipulation"],
-      "comment": "Date-fns v2 bindings. Using FP submodule"
+      "keywords": ["date/time manipulation"]
     },
     "reason-elm": {
       "category": "library",
