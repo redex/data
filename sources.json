@@ -783,6 +783,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "analytics"]
     },
+    "bs-react-grid-dnd": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "bs-react-intl": {
       "category": "binding",
       "platforms": ["browser"],
