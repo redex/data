@@ -166,8 +166,8 @@
     },
     "@pckilgore/bs-biginteger": {
       "category": "binding",
-      "platforms": ["any"],
-      "keywords": ["big-int", "cryptography"]
+      "platforms": ["node", "browser"],
+      "keywords": ["math"]
     },
     "@phenomic/reason": {
       "category": "binding",
