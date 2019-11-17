@@ -164,6 +164,11 @@
       "keywords": ["utilities", "dom"],
       "comment": "Outdated, invalid instructions"
     },
+    "@pckilgore/bs-biginteger": {
+      "category": "binding",
+      "platforms": ["any"],
+      "keywords": ["big-int", "cryptography"]
+    },
     "@phenomic/reason": {
       "category": "binding",
       "flags": ["neglected"],
