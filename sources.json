@@ -147,6 +147,11 @@
       "platforms": ["node"],
       "keywords": ["cryptography"]
     },
+    "@lxsmnsyc/re-scoped-model": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react", "state management"]
+    }.
     "@mobily/re-date": {
       "category": "library",
       "platforms": ["browser", "node"],
