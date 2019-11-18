@@ -169,6 +169,11 @@
       "keywords": ["utilities", "dom"],
       "comment": "Outdated, invalid instructions"
     },
+    "@pckilgore/bs-biginteger": {
+      "category": "binding",
+      "platforms": ["node", "browser"],
+      "keywords": ["math"]
+    },
     "@phenomic/reason": {
       "category": "binding",
       "flags": ["neglected"],
