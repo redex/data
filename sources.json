@@ -152,6 +152,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "state management"]
     },
+    "@lxsmnsyc/re-use": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["react", "state management"]
+    },
     "@mobily/re-date": {
       "category": "library",
       "platforms": ["browser", "node"],
