@@ -286,6 +286,11 @@
       "platforms": ["node"],
       "keywords": ["testing"]
     },
+    "@veikkaus/re-node-config": {
+      "category": "library",
+      "platforms": ["node"],
+      "keywords": ["configuration"]
+    },
     "@wokalski/vow": {
       "category": "library",
       "platforms": ["browser", "node"],
