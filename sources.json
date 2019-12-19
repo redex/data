@@ -271,11 +271,6 @@
       "platforms": ["browser"],
       "keywords": ["real-time communication"]
     },
-    "@ryb73/decco": {
-      "category": "library",
-      "platforms": ["browser", "node"],
-      "keywords": ["data serialization","json","parsing","ppx"]
-    },
     "@sdv-studio/bs-rsuite-ui-react": {
       "category": "binding",
       "platforms": ["browser"],
@@ -1021,6 +1016,11 @@
       "category": "library",
       "platforms": ["any"],
       "keywords": ["collections"]
+    },
+    "decco": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["data serialization","json","parsing","ppx"]
     },
     "esy-peasy": {
       "category": "tool",
