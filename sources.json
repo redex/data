@@ -793,6 +793,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
+    "bs-react-dropzone": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "bs-react-ga": {
       "category": "binding",
       "platforms": ["browser"],
