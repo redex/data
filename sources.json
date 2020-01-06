@@ -843,6 +843,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "utilities"]
     },
+    "bs-react-syntax-highlighter": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "bs-react-test-renderer": {
       "category": "binding",
       "platforms": ["browser", "node"],
