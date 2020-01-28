@@ -1357,6 +1357,11 @@
       "platforms": ["browser"],
       "keywords": ["development tools"]
     },
+    "reductive-observable": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["development tools", "reactive programming"]
+    },
     "refmterr": {
       "category": "tool",
       "platforms": ["native"],
