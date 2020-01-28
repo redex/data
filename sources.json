@@ -20,6 +20,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
+    "@ambientlight/bs-rx": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["async", "utilities", "reactive programming"]
+    },
     "@astrada/bs-react-fela": {
       "category": "binding",
       "platforms": ["browser"],
