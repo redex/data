@@ -766,6 +766,11 @@
       "keywords": ["express", "routing"],
       "comment": "Missing installation instructions"
     },
+    "bs-pixi": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["opengl", "graphics"]
+    },
     "bs-pixl-xml": {
       "category": "binding",
       "platforms": ["node", "browser"],
