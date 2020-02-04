@@ -206,6 +206,11 @@
       "platforms": ["browser", "node"],
       "keywords": ["graphql", "data fetching"]
     },
+    "@rejs/re-future": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["async"]
+    },
     "@ristostevcev/bs-callbag-basics": {
       "category": "binding",
       "platforms": ["browser", "node"],
