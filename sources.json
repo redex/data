@@ -1,10 +1,5 @@
 {
   "published": {
-    "@aantron/repromise": {
-      "category": "binding",
-      "platforms": ["browser", "node", "native"],
-      "keywords": ["async"]
-    },
     "@ahrefs/bs-aws-lambda": {
       "category": "binding",
       "platforms": ["node"],
@@ -1248,6 +1243,11 @@
       "category": "library",
       "platforms": ["browser"],
       "keywords": ["react", "utilities"]
+    },
+    "reason-promise": {
+      "category": "binding",
+      "platforms": ["browser", "node", "native"],
+      "keywords": ["async"]
     },
     "reason-react": {
       "category": "binding",
