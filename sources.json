@@ -70,6 +70,11 @@
       "platforms": ["browser", "node", "native"],
       "keywords": ["utilities", "cli", "parsing"]
     },
+    "@ewert-online/re-crypt": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["cryptography"]
+    },
     "@gladimdim/bs-semver": {
       "category": "binding",
       "platforms": ["browser", "node"],
