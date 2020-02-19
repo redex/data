@@ -1367,10 +1367,8 @@
     },
     "reductive": {
       "category": "library",
-      "flags": ["neglected"],
       "platforms": ["browser", "node"],
-      "keywords": ["react", "state management"],
-      "comment": "Missing repository url, installation instructions"
+      "keywords": ["react", "state management"]
     },
     "reductive-dev-tools": {
       "category": "tool",
