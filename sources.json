@@ -1142,6 +1142,11 @@
       "keywords": ["database"],
       "comment": "Inadequate readme"
     },
+    "re-tailwind": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["css"]
+    },
     "re-spring": {
       "category": "library",
       "flags": ["neglected"],
