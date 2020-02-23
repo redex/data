@@ -1145,7 +1145,7 @@
     "re-tailwind": {
       "category": "library",
       "platforms": ["browser"],
-      "keywords": ["css", "tailwind", "tailwindcss"]
+      "keywords": ["css"]
     },
     "re-spring": {
       "category": "library",
