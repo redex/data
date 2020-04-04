@@ -413,6 +413,11 @@
       "platforms": ["node"],
       "keywords": ["utilities"]
     },
+    "bs-cors": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["utilities", "bs-express", "expressjs", "middleware", "cors"]
+    },
     "bs-cron": {
       "category": "binding",
       "platforms": ["node"],
