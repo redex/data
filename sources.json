@@ -416,7 +416,7 @@
     "bs-cors": {
       "category": "binding",
       "platforms": ["node"],
-      "keywords": ["utilities", "bs-express", "expressjs", "middleware", "cors"]
+      "keywords": ["express"]
     },
     "bs-cron": {
       "category": "binding",
