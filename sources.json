@@ -291,6 +291,11 @@
       "platforms": ["node"],
       "keywords": ["testing"]
     },
+    "@tatchi/bs-idb-keyval": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["idb-keyval", "indexeddb", "localstorage", "storage"]
+    },
     "@veikkaus/re-node-config": {
       "category": "library",
       "platforms": ["node"],
