@@ -294,7 +294,7 @@
     "@tatchi/bs-idb-keyval": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["idb-keyval", "indexeddb", "localstorage", "storage"]
+      "keywords": ["database"]
     },
     "@veikkaus/re-node-config": {
       "category": "library",
