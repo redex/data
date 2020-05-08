@@ -69,7 +69,7 @@
       "category": "library",
       "platforms": ["browser", "node"],
       "keywords": ["data fetching"]
-    }.
+    },
     "@elliottcable/bs-cmdliner": {
       "category": "library",
       "platforms": ["browser", "node", "native"],
