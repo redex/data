@@ -75,7 +75,7 @@
       "platforms": ["browser", "node", "native"],
       "keywords": ["utilities", "cli", "parsing"]
     },
-    "@ewert-online/re-crypt": {
+    "@space-labs/re-crypt": {
       "category": "library",
       "platforms": ["any"],
       "keywords": ["cryptography"]
