@@ -291,6 +291,11 @@
       "platforms": ["any"],
       "keywords": ["cryptography"]
     },
+    "@space-labs/warp": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["http client"]
+    },
     "@stroiman/respect": {
       "category": "library",
       "platforms": ["node"],
