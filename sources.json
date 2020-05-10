@@ -291,6 +291,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
+    "@space-labs/warp": {
+      "category": "library",
+      "platforms": ["browser"],
+      "keywords": ["http client"]
+    },
     "@stroiman/respect": {
       "category": "library",
       "platforms": ["node"],
