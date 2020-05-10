@@ -75,11 +75,6 @@
       "platforms": ["browser", "node", "native"],
       "keywords": ["utilities", "cli", "parsing"]
     },
-    "@ewert-online/re-crypt": {
-      "category": "library",
-      "platforms": ["any"],
-      "keywords": ["cryptography"]
-    },
     "@gladimdim/bs-semver": {
       "category": "binding",
       "platforms": ["browser", "node"],
@@ -290,6 +285,11 @@
       "category": "binding",
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
+    },
+    "@space-labs/re-crypt": {
+      "category": "library",
+      "platforms": ["any"],
+      "keywords": ["cryptography"]
     },
     "@space-labs/warp": {
       "category": "library",
