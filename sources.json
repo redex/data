@@ -306,6 +306,11 @@
       "platforms": ["browser"],
       "keywords": ["database"]
     },
+    "@tatchi/bs-react-virtual": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react"]
+    },
     "@veikkaus/re-node-config": {
       "category": "library",
       "platforms": ["node"],
