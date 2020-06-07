@@ -883,6 +883,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "utilities"]
     },
+    "bs-react-shadow-scroll": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "bs-react-syntax-highlighter": {
       "category": "binding",
       "platforms": ["browser"],
