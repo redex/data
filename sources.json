@@ -1515,7 +1515,7 @@
     "bs-react-flatpickr": {
       "category": "binding",
       "platforms": ["browser"],
-      "keywords": ["date picker", "flatpickr"]
+      "keywords": ["react", "ui"]
     }
   },
 
