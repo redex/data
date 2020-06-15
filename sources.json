@@ -838,6 +838,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
+    "bs-react-flatpickr": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "bs-react-ga": {
       "category": "binding",
       "platforms": ["browser"],
@@ -1511,11 +1516,6 @@
       "category": "tool",
       "platforms": ["node"],
       "keywords": ["development tools"]
-    },
-    "bs-react-flatpickr": {
-      "category": "binding",
-      "platforms": ["browser"],
-      "keywords": ["react", "ui"]
     }
   },
 
