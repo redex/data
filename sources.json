@@ -838,6 +838,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "ui"]
     },
+    "bs-react-flatpickr": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "bs-react-ga": {
       "category": "binding",
       "platforms": ["browser"],
