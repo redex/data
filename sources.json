@@ -1483,6 +1483,11 @@
       "platforms": ["browser"],
       "keywords": ["react", "state management", "ui"]
     },
+    "rentgen": {
+      "category": "library",
+      "platforms": ["browser", "node"],
+      "keywords": ["utilities", "async", "collections"]
+    },
     "rex-json": {
       "category": "library",
       "platforms": ["any"],
