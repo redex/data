@@ -1151,7 +1151,7 @@
     "re-discord": {
       "category": "library",
       "platforms": ["native"],
-      "keywords": ["platform-api"]
+      "keywords": ["platform api"]
     },
     "re-classnames": {
       "category": "library",
