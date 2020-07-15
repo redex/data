@@ -1072,6 +1072,11 @@
       "platforms": ["browser"],
       "keywords": ["virtual dom", "state management"]
     },
+    "child-reprocess": {
+      "category": "binding",
+      "platforms": ["node"],
+      "keywords": ["utilities"]
+    },
     "clj-collection-apis-reasonml": {
       "category": "library",
       "platforms": ["any"],
