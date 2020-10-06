@@ -913,6 +913,11 @@
       "platforms": ["browser"],
       "keywords": ["react"]
     },
+    "bs-react-whatsapp": {
+      "category": "binding",
+      "platforms": ["browser"],
+      "keywords": ["react", "ui"]
+    },
     "bs-reactstrap": {
       "category": "binding",
       "platforms": ["browser"],
